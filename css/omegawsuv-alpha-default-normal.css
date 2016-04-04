@@ -1,0 +1,229 @@
+/* This file will hold styles that are loaded using the same media query as the normal grid. */
+/* If you are using the default media queries provided by Omega, these styles will also
+ *  apply to the widescreen layout unless they are overridden by the widescreen styles. */
+
+/*
+* By default this style sheet will be loaded for the normal and wide layouts
+* Styles will "cascade" to the wide layout as well.
+* Default media query for the normal layout is: all and (min-width: 980px) and (min-device-width: 980px), all and (max-device-width: 1024px) and (min-width: 1024px) and (orientation:landscape)
+*/
+
+
+/* HTML */
+
+img.right, img.left, img.border {
+  width: 45%;
+}
+
+img.right-small {
+  width: 25%;
+}
+
+a.sf-depth-1 {
+  width: 210px;
+}
+
+iframe.responsive {
+  width: 75%;
+}
+
+.panel-2col-stacked .panel-col-first,
+.panel-2col-bricks .panel-col-first {
+  width: 50%;
+}
+
+.panel-2col-stacked .panel-col-last,
+.panel-2col-bricks .panel-col-last {
+  width: 49.9%;
+}
+
+
+/* HEADER */
+
+#quick-links {
+  font-size: .9em;
+  height: 1.8em;
+  padding-top: .25em;
+}
+
+#quick-links-wrapper {
+  max-width: 980px;
+  margin: 0 auto;
+  padding-left: 20px\9; /fix for IE8 spacing */
+}
+
+ul.quick-links-right {
+  padding-right: 15px;
+}
+
+#nav {
+  height: 0;
+  padding: .5em 0 2.4em 0;
+}
+
+#nav-wrapper {
+  max-width: 980px;
+  margin: 0 auto;
+  padding-left: 40px;
+
+}
+
+
+/* SEARCH */
+
+.search {
+  display: block;
+  padding: .1em 30px 0 0;
+  margin-top: -.075em;
+}
+
+.search input {
+  border: 1px solid #262b2d;
+  height: 28px;
+}
+
+.search input[type=text] {
+  background: #5e6a71;
+  color: #262b2d;
+}
+
+.search input[type=submit] {
+  background: url("/sites/www.vancouver.wsu.edu/themes/omegawsuv/search.png") no-repeat center center;
+  width: 27px;
+  height: 27px;
+  background-size: 27px;
+  border: none;
+  color: transparent;
+  border-radius: 0;
+}
+
+.search-form {
+  display: inline;
+}
+
+
+/* LOGO AND ACTION LINKS */
+
+#logo-action {
+  height: 4.5em;
+  font-size: 1.25em;
+  padding-top: 1.25em;
+}
+
+#logo-action-wrapper {
+  max-width: 980px;
+  margin: 0 auto;
+  padding-left: 20px\9; /* fix for IE8 spacing */
+}
+
+img.primary-logo {
+  width: 210px;
+  float: left;
+}
+
+ul.logo-action-links {
+  padding-right: 20px\9; /* fix for IE8 spacing */
+}
+
+
+/* HOMEPAGE */
+
+.view-home-image-slider img {
+  max-width: 100%;
+  height: auto;
+}
+
+.flexslider {
+  margin: 0 0 5em;
+}
+
+ol.flex-control-nav {
+  bottom: -40px;
+}
+
+.events-item-list ul, .pr-item-list ul {
+  list-style-type: none;
+  margin-top: -.5em;
+}
+
+
+h1.home-image-caption {
+  font-size: 2em;
+}
+
+
+/* LANDING PAGES */
+
+img.right-icon {
+  float: right;
+  margin: 0 0 15px 15px;
+  width: 15%;
+}
+
+.person-entry .views-field-field-photo {
+  float: left;
+  margin-right: .8em;
+}
+
+
+/* FOOTER */
+
+#sitemap-wrapper {
+  max-width: 980px;
+  padding-left: 20px\9; /* fix for IE8 spacing */
+}
+
+#sitemap-footer {
+  height: 27em;
+}
+
+#sitemap-footer a:hover {
+  padding: 3px 6px;
+  margin: -3px -6px;
+  background: #fff;
+  color: #262b2d;
+  text-decoration: none;
+  border-radius: 3px;
+  background-clip: padding-box; /* fixes hover redraw bug caused by border-radius in webkit */
+}
+
+#copyright {
+  height: 7em;
+}
+
+#copyright-wrapper {
+  max-width: 980px;
+  padding-left: 20px;
+}
+
+#copyright p {
+  font-size: 1em;
+}
+
+#copyright p.legal, #copyright p.legal a, #copyright p.address, #copyright p.address a {
+  text-transform: uppercase;
+  letter-spacing: .5px;
+}
+
+#copyright p.legal {
+  float: left;
+}
+
+#copyright p.links-mobile {
+  float: left;
+  clear: left;
+}
+
+#copyright p.address {
+  text-align: right;
+  padding-right: 20px;
+}
+
+#copyright p.links-mobile {
+  visibility: hidden;
+}
+
+#copyright p.social {
+  text-align: right;
+  padding-right: 20px;
+}

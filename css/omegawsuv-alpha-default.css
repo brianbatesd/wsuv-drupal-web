@@ -1,0 +1,225 @@
+/* This file will hold styles for all layouts using the alpha grid (i.e. not the mobile layout). */
+
+
+/* 
+* Loaded for all layouts using the alpha grid (i.e. not the mobile layout).
+* Default media query: n/a. Applied to all layouts using the alpha grid.
+* By default the alpha grid is applied when the device width is at least 740px wide. 
+*/
+
+
+/* HTML */
+
+img.right,
+img.left,
+img.border {
+    width: 50%;
+}
+
+img.right-small {
+    width: 25%;
+}
+
+
+/* HEADER */
+
+#nav li {
+    display: inline-block;
+}
+
+#quick-links {
+    display: block;
+    height: 4em;
+}
+
+ul.quick-links-right {
+    float: right;
+    clear: none;
+}
+
+#nav {
+    height: 0;
+}
+
+#nav-wrapper {
+    margin: 0 auto;
+    padding-left: 1em;
+}
+
+ul.nav ul {
+    width: 100%;
+    display: block;
+    height: auto;
+    margin: 0;
+}
+
+ul.nav li {
+    width: auto;
+    float: left;
+    position: relative;
+    list-style-type: none;
+    padding-right: 1.6em;
+    font-size: .9em;
+}
+
+ul.nav li a {
+    text-decoration: none;
+}
+
+ul.nav li a:hover {
+    text-decoration: underline;
+}
+
+#logo-action {
+    margin-bottom: 2.5em;
+    border-top: none;
+}
+
+img.primary-logo {
+    width: 216px;
+    float: left;
+}
+
+ul.logo-action-links {
+    float: right;
+    clear: none;
+}
+
+ul.logo-action-links li a.apply-now {
+    padding: .5em 1em;
+}
+
+ul.logo-action-links li a:hover.apply-now {
+    padding: .5em 1em;
+}
+
+
+/* CONTENT */
+
+span.ext,
+span.mailto {
+    display: inline;
+}
+
+
+/* HOMEPAGE */
+
+h1.home-lead-title {
+    text-align: center;
+    font-size: 2em;
+}
+
+h1.home-lead-title-main {
+    text-align: center;
+    font-size: 2em;
+    color: #fff;
+}
+
+p.home-lead-button-responsive,
+p.lead-button-responsive {
+    text-align: left;
+}
+
+.view-home-image-slider img {
+    max-width: 100%;
+    height: auto;
+}
+
+.flexslider {
+    background: none repeat scroll 0 0 #FFFFFF;
+    border: none;
+    border-radius: none;
+    box-shadow: none;
+    margin: 0 0 5em;
+    position: relative;
+}
+
+ol.flex-control-nav {
+    bottom: -40px;
+}
+
+.panel-2col-stacked .panel-col-first,
+.panel-2col-bricks .panel-col-first {
+    width: 50%;
+}
+
+.panel-2col-stacked .panel-col-last,
+.panel-2col-bricks .panel-col-last {
+    width: 49.9%;
+}
+
+.events-item-list ul,
+.pr-item-list ul {
+    list-style-type: none;
+    margin-top: -.5em;
+}
+
+h1.home-image-caption {
+    font-size: 2em;
+}
+
+
+/* BODY */
+
+
+/* FOOTER */
+
+#sitemap-footer {
+    width: 100%;
+    margin-top: 2em;
+    padding-top: 2em;
+    background: #262b2d;
+    color: #fff;
+    text-decoration: none;
+    font-size: .9em;
+    line-height: 2em;
+    display: block;
+}
+
+#sitemap-footer a {
+    color: #fff;
+    text-decoration: none;
+}
+
+#sitemap-footer a:hover {
+    color: #fff;
+    text-decoration: underline;
+}
+
+#sitemap-footer ul li {
+    list-style-type: none;
+    padding-top: .6em;
+    line-height: 1.4em;
+}
+
+#sitemap-footer ul li.sitemap-title {
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+
+#sitemap-wrapper {
+    max-width: 1220px;
+    height: 2em;
+    margin: 0 auto;
+}
+
+ul.sitemap-footer-column1,
+ul.sitemap-footer-column2,
+ul.sitemap-footer-column3,
+ul.sitemap-footer-column4 {
+    float: left;
+    clear: none;
+    width: 23.5%;
+    background-color: #262b2d;
+    padding-left: 10px;
+}
+
+#copyright {
+    height: 12em;
+    font-size: .9em;
+}
+
+#copyright p.links-mobile {
+    visibility: hidden;
+}

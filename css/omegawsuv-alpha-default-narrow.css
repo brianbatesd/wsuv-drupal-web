@@ -1,0 +1,232 @@
+/* This file will hold styles that are loaded using the same media query as the narrow grid. */
+
+
+/* If you are using the default media queries provided by Omega, these styles will also
+ *  apply to the normal and widescreen layouts. You may override these styles in the normal
+ *  and widescreen CSS files as appropriate. */
+
+
+/*
+* Loaded for all layouts using the alpha grid. Styles will "cascade" to wider layouts. You may overwrite any styles in the normal or wide layout-specific CSS files if you wish.
+* Default media query for the narrow layout is: all and (min-width: 740px) and (min-device-width: 740px), (max-device-width: 800px) and (min-width: 740px) and (orientation:landscape)
+*/
+
+
+/* HTML */
+
+html,
+body {
+    -webkit-backface-visibility: hidden;
+    /* fixes text flash from flexslider */
+}
+
+img.right,
+img.left,
+img.border {
+    width: 50%;
+}
+
+a.sf-depth-1 {
+    width: 155px;
+}
+
+iframe.responsive {
+    width: 85%;
+}
+
+img.right-small {
+    width: 35%;
+}
+
+
+/* HEADER */
+
+#quick-links {
+    height: 3.5em;
+    padding-top: .5em;
+}
+
+#quick-links-wrapper {
+    max-width: 741px;
+    margin: 0 auto;
+    padding-left: 20px;
+}
+
+ul.quick-links-right {
+    float: left;
+    clear: left;
+}
+
+#nav-wrapper {
+    max-width: 740px;
+    margin: 0 auto;
+    padding-left: 35px;
+    text-align: left;
+}
+
+#nav {
+    height: 0;
+    padding: .5em 0 2.3em 0;
+}
+
+.js #nav {
+    overflow: visible;
+    /* fixes search visibility when hidden by js nav on mobile */
+}
+
+
+/* SEARCH FIELD */
+
+#google-cse {
+    float: right;
+}
+
+.search {
+    display: block;
+    margin-top: -5.9em;
+    padding-right: 25px;
+}
+
+.search input {
+    border: 1px solid #981e32;
+    height: 35px;
+}
+
+.search input[type=text] {
+    width: 200px;
+}
+
+.search input[type=submit] {
+    background: url("/sites/www.vancouver.wsu.edu/themes/omegawsuv/search.png") no-repeat center center;
+    width: 34px;
+    height: 34px;
+    background-size: 34px;
+    border: none;
+    color: transparent;
+    border-radius: 0;
+}
+
+.search-form {
+    display: inline;
+}
+
+
+/* LOGO AND ACTION LINKS */
+
+#logo-action {
+    height: 5.25em;
+    font-size: 1em;
+    padding-top: 1.5em;
+}
+
+#logo-action-wrapper {
+    max-width: 741px;
+    margin: 0 auto;
+    padding-left: 20px;
+}
+
+img.primary-logo {
+    width: 216px;
+    float: left;
+}
+
+ul.logo-action-links {
+    padding-right: 20px;
+}
+
+
+/* HOMEPAGE */
+
+.view-home-image-slider img {
+    max-width: 100%;
+    height: auto;
+}
+
+.flexslider {
+    margin: 0 0 5em;
+}
+
+ol.flex-control-nav {
+    bottom: -40px;
+}
+
+.panel-2col-stacked .panel-col-first,
+.panel-2col-bricks .panel-col-first {
+    width: 50%;
+}
+
+.panel-2col-stacked .panel-col-last,
+.panel-2col-bricks .panel-col-last {
+    width: 49.9%;
+}
+
+.events-item-list ul,
+.pr-item-list ul {
+    list-style-type: none;
+    margin-top: -.5em;
+}
+
+h1.home-image-caption {
+    font-size: 2em;
+}
+
+
+/* LANDING PAGES */
+
+img.right-icon {
+    float: right;
+    margin: 0 0 15px 15px;
+    width: 20%;
+}
+
+
+/* EVENTS CALENDAR */
+
+
+/* hide mobile list view and show desktop month block view */
+
+div.panel-pane.pane-block.pane-views-calendar-block-1 {
+    display: inline;
+}
+
+div.panel-pane.pane-block.pane-views-calendar-block-3 {
+    display: none;
+}
+
+.view .date-nav-wrapper .date-heading h3 {
+    display: block;
+    color: #262b2d;
+    background: #f8f8f8;
+    padding: .5em;
+    border-bottom: 1px solid #eee;
+    margin-bottom: .25em;
+}
+
+
+/* FOOTER */
+
+#sitemap-wrapper {
+    max-width: 741px;
+    padding-left: 20px;
+}
+
+#sitemap-footer {
+    height: 34em;
+}
+
+#copyright {
+    height: 14em;
+}
+
+#copyright-wrapper {
+    max-width: 741px;
+    padding-left: 20px;
+}
+
+#copyright p {
+    font-size: .95em;
+}
+
+#copyright p.links-mobile {
+    visibility: hidden;
+}
