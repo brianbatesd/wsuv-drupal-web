@@ -8,7 +8,7 @@ contributors: Aaron Thorne, Alan McGinnis
 core = Drupal 7.x  
 engine = phptemplate  
 base theme = omega  
-version = 7.x-3.0rc2
+base theme version = 7.x-3.0
 
 # additional-credits
 
