@@ -17,7 +17,6 @@ https://www.drupal.org/project/omega
 https://github.com/drupal/drupal  
 https://github.com/viljamis/responsive-nav.js  
 https://github.com/alanmcginnis
-http://www.vancouver.wsu.edu/  
 
 # related-projects
 
