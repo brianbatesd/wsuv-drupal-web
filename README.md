@@ -2,7 +2,7 @@
 
 name = WSU Vancouver Omega  
 description = WSU Vancouver HTML5 Omega subtheme.  
-organization = Washington State University Vancouver
+organization = Washington State University Vancouver  
 author: Brian Bates  
 contributors: Aaron Thorne, Alan McGinnis  
 core = Drupal 7.x  
