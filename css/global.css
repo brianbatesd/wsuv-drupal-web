@@ -1,8 +1,6 @@
 /* This file will hold styles for the mobile version of your website (mobile first). */
 
-
 /* This also can include ANY global CSS that applies site-wide. Unless overwritten by a more specific style rule, CSS declarations in global.css will apply site-wide. */
-
 
 /*
 * Loaded all for all layouts, including mobile.
@@ -10,7 +8,6 @@
 * By default, this is the only stylesheet loaded for the mobile version of your site.
 * This layout does not use the 960gs for its layout. It provides a linearized view of your site's content.
 */
-
 
 /* use .ie7, .ie8 or .ie9 before classes to target Internet Explorer */
 
@@ -25,10 +22,7 @@
 html {
     width: 100%;
     min-width: 310px;
-}
-
-
-/* prevents layout from breaking */
+} /* prevents layout from breaking */
 
 html,
 button,
@@ -103,9 +97,6 @@ strong {
     /* 35% #262b2d */
 }
 
-
-/* word-break */
-
 .panel-pane .pane-custom .pane-2 {
     display: block;
     min-width: 100%;
@@ -115,20 +106,14 @@ strong {
 
 #toolbar strong {
     color: #fff;
-}
-
-
-/* prevent page styling from affecting admin toolbar */
+} /* prevent page styling from affecting admin toolbar */
 
 
 /* IMAGE STYLES */
 
-
-/* width percentage scales images for hidpi displays */
-
 img.retina {
     width: 50%;
-}
+} /* width percentage scales images for hidpi displays */
 
 img.right,
 img.block {
@@ -194,10 +179,7 @@ img.hide {
 #region-content img.file-icon {
     width: 16px;
     height: 16px;
-}
-
-
-/* reset admin file uploaded icon */
+} /* reset admin file uploaded icon */
 
 ul,
 ol {
@@ -300,17 +282,16 @@ hr.landing {
 
 iframe.responsive {
     width: 100%;
-}
-
-
-/* override for mobile layout */
+} /* override for mobile layout */
 
 iframe.full {
     width: 100%;
 }
 
-
-/* bug: external links module breaks mobile layout when it falls on the viewport edge */
+span.ext,
+span.mailto {
+    display: none;
+} /* bug: external links module breaks mobile layout when it falls on the viewport edge */
 
 
 /* FORMS */
@@ -326,11 +307,6 @@ select {
 fieldset {
     border: 1px solid #e7e9ea;
     padding: 1em;
-}
-
-span.ext,
-span.mailto {
-    display: none;
 }
 
 .links {
@@ -349,11 +325,9 @@ div.error, .error {
     color: #c60c30;
 }
 
-/* padding between confirmation page and footer */
-
 .views-exposed-form .views-exposed-widget .form-submit {
     margin-top: 2.1em;
-}
+} /* padding between confirmation page and footer */
 
 
 /* TEXT SELECTION HIGHLIGHTING */
@@ -515,7 +489,6 @@ ul.nav li a:hover {
 
 /* SEARCH */
 
-
 /*#google-cse {
   float: left;
 }*/
@@ -576,9 +549,7 @@ ul.nav li a:hover {
 
 #google-cse .form-text {
     background-image: none !important;
-}
-
-/* remove watermark per non-profit rules */
+} /* remove watermark per non-profit exception */
 
 #google-cse-results iframe {
     width: 100%;
@@ -629,13 +600,10 @@ ul.logo-action-links li a {
     color: #333;
 }
 
-
-/* below: padding-box fixes hover redraw bug caused by border-radius in webkit */
-
 ul.logo-action-links li a:hover {
     text-decoration: underline;
     background-clip: padding-box;
-}
+} /* padding-box fixes hover redraw bug caused by border-radius in webkit */
 
 ul.logo-action-links li a.apply-now {
     background-color: #981e32;
@@ -650,7 +618,7 @@ ul.logo-action-links li a.apply-now {
 
 ul.logo-action-links li a:hover.apply-now {
     background-color: #b6bf00;
-    /* #ada400 */
+    /* #ada400 green */
     color: #333;
     padding: 4px 7px;
     text-decoration: none;
@@ -732,7 +700,6 @@ ul.logo-action-links li a:hover.apply-now {
     margin-left: 10px;
 }
 
-
 /* section heading */
 
 .region-sidebar-first ul li.first a.active,
@@ -767,7 +734,6 @@ ul.logo-action-links li a:hover.apply-now {
     letter-spacing: 0;
     margin-left: 9px;
 }
-
 
 /* re-establish font baseline due to section heading */
 
@@ -812,7 +778,7 @@ ul.logo-action-links li a:hover.apply-now {
 }
 
 
-/* RESPONSIVE MENU NAVIGATION MODULE */
+/* RESPONSIVE MENU MODULE */
 
 .responsive-menus.responsified span.toggler {
     background: none repeat scroll 0 0 #fff;
@@ -876,9 +842,6 @@ ul.logo-action-links li a:hover.apply-now {
 
 
 /* HOMEPAGE AND LANDING PAGES */
-
-
-/* FLEXSLIDER STYLE */
 
 .view-home-image-slider img {
     max-width: 100%;
@@ -978,7 +941,6 @@ a.lead-button-main:hover {
     background-color: #fff;
 }
 
-
 /* FLEXSLIDER STYLES */
 
 h2.overlay {
@@ -1010,9 +972,7 @@ ol.flex-control-nav {
 .panel-2col-bricks .panel-col-first,
 .panel-2col-bricks .panel-col-last {
     width: 100%;
-}
-
-/* force single column panel layout on mobile */
+} /* IMPORTANT! force single column panel layout on mobile */
 
 .pane-views-alerts-block {
     background: #f8f8f8;
@@ -1040,6 +1000,8 @@ ol.flex-control-nav {
     border-bottom: 1px solid #e7e9ea;
     padding: 1em 0;
 }
+
+/* PANEL STYLES */
 
 .pane-views-home-upcoming-events-block,
 .pane-views-home-latest-news-block,
@@ -1154,19 +1116,14 @@ ol.flex-control-nav {
 
 .libraryh3lp a {
     color: #000;
-}
-
-/* override inline link styling for chat widget */
+} /* override inline link styling for chat widget */
 
 
 /* EVENTS CALENDAR */
 
 div.panel-pane.pane-block.pane-views-calendar-block-1 {
     display: none;
-}
-
-
-/* hide month view block for mobile */
+} /* hide month view block for mobile */
 
 div.panel-pane.pane-block.pane-views-calendar-block-3 {
     margin: 0 10px 0 10px;
@@ -1180,25 +1137,16 @@ div.panel-pane.pane-block.pane-views-calendar-block-3 {
 .view .date-nav-wrapper .date-next {
     background: #f8f8f8;
     border: none;
-}
-
-
-/* prev and next buttons */
+} /* prev and next buttons */
 
 .calendar-calendar .month-view table {
     margin-top: .4em;
     margin-bottom: 2em;
-}
-
-
-/* general spacing */
+} /* general spacing */
 
 ul.pager {
     border: none;
-}
-
-
-/* remove outline */
+} /* remove outline */
 
 .view .date-nav-wrapper .item-list .pager {
     background-color: #fff;
@@ -1221,51 +1169,33 @@ ul.pager {
 .calendar-calendar .month-view .full td.single-day.empty,
 .calendar-calendar .month-view .full td.date-box.empty {
     color: #f8f8f8;
-}
-
-
-/* empty days from prior and future months */
+} /* empty days from prior and future months */
 
 .calendar-calendar th.days {
     color: #fff;
     background: #262b2d;
     border-color: #262b2d;
-}
-
-
-/* general calendar look */
+} /* general calendar appearance */
 
 .calendar-calendar tr:hover td,
 .calendar-calendar tr.even:hover td.active,
 .calendar-calendar tr.odd:hover td.active {
     background: none;
-}
-
-
-/* override hover highlight on normal data tables */
+} /* override hover highlight on normal data tables */
 
 .calendar-calendar .month-view .full td .inner div.day,
 .calendar-calendar .month-view .full td .inner div.day a {
     color: #262b2d;
     font-weight: normal;
-}
-
-
-/* events on this day indicator */
+} /* events on this day indicator */
 
 .calendar-calendar .month-view .full td.date-box.today {
     border-color: #981e32;
-}
-
-
-/* current day or today */
+} /* current day or today */
 
 .calendar-calendar .month-view .full tr td.single-day.today {
     border-color: #981e32;
-}
-
-
-/* current day or today */
+} /* current day or today */
 
 .calendar-calendar .month-view .full tr td.multi-day.starts-today {
     border-left-color: #981e32;
@@ -1278,20 +1208,14 @@ ul.pager {
     padding: .75em;
     font-size: .8em;
     border-radius: 0;
-}
-
-
-/* event day style */
+} /* event day style */
 
 .calendar-calendar td span.date-display-single,
 .calendar-calendar td span.date-display-start,
 .calendar-calendar td span.date-display-end,
 .calendar-calendar td span.date-display-separator {
     font-weight: normal;
-}
-
-
-/* date style on day entry */
+} /* date style on day entry */
 
 .calendar-calendar .month-view .full td.multi-day div.monthview,
 .calendar-calendar .week-view .full td.multi-day div.weekview,
@@ -1302,18 +1226,12 @@ ul.pager {
     font-size: .8em;
     color: #f8f8f8;
     border-radius: 0;
-}
-
-
-/* multi-day style */
+} /* multi-day style */
 
 .calendar-calendar .month-view .full td.multi-day .inner .monthview .continuation,
 .calendar-calendar .week-view .full td.multi-day .inner .weekview .continuation {
     color: #5e6a71;
-}
-
-
-/* continuation first style */
+} /* continuation first style */
 
 .calendar-calendar .month-view .full td.multi-day .inner .monthview .continues,
 .calendar-calendar .month-view .full td.multi-day .inner .monthview .cutoff,
@@ -1322,10 +1240,7 @@ ul.pager {
     background: #f8f8f8;
     font-size: 1em;
     color: #5e6a71;
-}
-
-
-/* multi-day style */
+} /* multi-day style */
 
 
 /* NODE AND VIEW FIELDS */
@@ -1344,7 +1259,7 @@ ul.pager {
     font-weight: bold;
 }
 
-/* font-size 18px body text baseline */
+/* body text baseline = font-size: 18px */
 
 .views-field-title .field-content a {
     font-size: 18px;
@@ -1378,7 +1293,7 @@ ul.pager {
     margin-bottom: 1.2em;
 }
 
-/* field level font reset to match html elements */
+/* BELOW: field level font reset to match html elements */
 
 .field h1,
 .field h1 a {
@@ -1419,9 +1334,7 @@ ul.pager {
 
 a.feed-icon {
     display: none;
-}
-
-/* hide RSS icon on feed views */
+} /* hide RSS icon on feed views */
 
 footer.submitted {
     margin-bottom: 1.5em;
@@ -1453,8 +1366,7 @@ h2.block-title {
 
 /* PAGER */
 
-
-/* override default omega theme pager styles for mobile layout */
+/* BELOW: override default omega theme pager styles for mobile layout */
 
 .item-list .pager {
     margin-bottom: 4em;
@@ -1502,8 +1414,7 @@ h2.block-title {
     padding-right: 1em;
 }
 
-
-/* note: change 'previous' label to 'back' in view to fix baseline */
+/* note: change 'previous' label to 'back' in Views to fix baseline */
 
 .pager li.pager-next,
 .pager li.pager-last {
@@ -1516,10 +1427,7 @@ h2.block-title {
 
 #sitemap-footer {
     display: none;
-}
-
-
-/* hide full sitemap from mobile display */
+} /* hide full sitemap from mobile display */
 
 
 /* COPYRIGHT */
@@ -1574,8 +1482,7 @@ h2.block-title {
     text-decoration: underline;
 }
 
-
-/* itdocs */
+/* IT docs */
 
 #block-book-navigation ul.menu ul.menu li.first {
     margin-top: 5px;
