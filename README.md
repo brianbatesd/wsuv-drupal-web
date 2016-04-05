@@ -8,7 +8,7 @@ contributors: Aaron Thorne, Alan McGinnis
 core = Drupal 7.x  
 engine = phptemplate  
 base theme = omega  
-base theme version = 7.x-3.1 
+base theme version = 7.x-3.1   
 browser support = IE 8+ (limited IE 7 support), Safari 4+, Firefox 3.5+, Chrome 4+, iOS 6+, Android 3+
 
 # setup-instructions
