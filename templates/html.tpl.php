@@ -11,6 +11,8 @@
   <?php print $styles; ?>
   <?php print $scripts; ?>
   <!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+  <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700" rel="stylesheet" type="text/css">
+  <link href="https://fonts.googleapis.com/css?family=Oswald" rel="stylesheet" type="text/css">
   <link rel="apple-touch-icon" sizes="76x76" href="http://www.vancouver.wsu.edu/sites/www.vancouver.wsu.edu/themes/omegawsuv/apple-touch-icon-76x76.png">
   <link rel="apple-touch-icon" sizes="120x120" href="http://www.vancouver.wsu.edu/sites/www.vancouver.wsu.edu/themes/omegawsuv/apple-touch-icon-120x120.png">
   <link rel="apple-touch-icon" sizes="152x152" href="http://www.vancouver.wsu.edu/sites/www.vancouver.wsu.edu/themes/omegawsuv/apple-touch-icon-152x152.png">
@@ -135,7 +137,8 @@
 
   		<ul class="sitemap-footer-column4">
  			<li class="sitemap-title">Academic Units</li>
-			<li><a href="http://cas.vancouver.wsu.edu">Arts and Sciences</a></li>					<li><a href="http://business.vancouver.wsu.edu">Business</a></li>
+			<li><a href="http://cas.vancouver.wsu.edu">Arts and Sciences</a></li>
+      <li><a href="http://business.vancouver.wsu.edu">Business</a></li>
 			<li><a href="http://education.vancouver.wsu.edu">Education</a></li>
 			<li><a href="http://ecs.vancouver.wsu.edu">Engineering and Computer Science</a></li>
 			<li><a href="http://hd.vancouver.wsu.edu">Human Development</a></li>
