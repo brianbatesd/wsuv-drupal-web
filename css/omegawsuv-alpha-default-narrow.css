@@ -1,10 +1,8 @@
 /* This file will hold styles that are loaded using the same media query as the narrow grid. */
 
-
 /* If you are using the default media queries provided by Omega, these styles will also
  *  apply to the normal and widescreen layouts. You may override these styles in the normal
  *  and widescreen CSS files as appropriate. */
-
 
 /*
 * Loaded for all layouts using the alpha grid. Styles will "cascade" to wider layouts. You may overwrite any styles in the normal or wide layout-specific CSS files if you wish.
@@ -71,7 +69,7 @@ ul.quick-links-right {
 
 .js #nav {
     overflow: visible;
-    /* fixes search visibility when hidden by js nav on mobile */
+    /* fixes search visibility when hidden by js.nav on mobile */
 }
 
 
@@ -182,8 +180,7 @@ img.right-icon {
 
 /* EVENTS CALENDAR */
 
-
-/* hide mobile list view and show desktop month block view */
+/* BELOW: hide mobile list view and show desktop month block view */
 
 div.panel-pane.pane-block.pane-views-calendar-block-1 {
     display: inline;

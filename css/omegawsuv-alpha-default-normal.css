@@ -49,7 +49,7 @@ iframe.responsive {
 #quick-links-wrapper {
   max-width: 980px;
   margin: 0 auto;
-  padding-left: 20px\9; /fix for IE8 spacing */
+  padding-left: 20px\9; /* fix for IE8 spacing */
 }
 
 ul.quick-links-right {
@@ -183,8 +183,6 @@ img.right-icon {
   background: #fff;
   color: #262b2d;
   text-decoration: none;
-  border-radius: 3px;
-  background-clip: padding-box; /* fixes hover redraw bug caused by border-radius in webkit */
 }
 
 #copyright {

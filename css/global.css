@@ -22,7 +22,7 @@
 html {
     width: 100%;
     min-width: 310px;
-} /* prevents layout from breaking */
+} /* edge case: prevents layout from breaking on very small devices */
 
 html,
 button,

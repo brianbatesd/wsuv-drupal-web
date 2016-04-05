@@ -168,8 +168,6 @@ img.right-icon {
   background: #fff;
   color: #262b2d;
   text-decoration: none;
-  border-radius: 3px;
-  background-clip: padding-box; /* fixes hover redraw bug caused by border-radius in webkit */
 }
 
 #copyright {
