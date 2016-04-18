@@ -1,6 +1,6 @@
 **Disclaimer:** This repository exists solely for backup redundancy and educational purposes. Use of this theme for official University business by staff, faculty, students, constituents, community, et al. requires approval from Marketing and Communications at WSU Vancouver. Please see http://admin.vancouver.wsu.edu/marketing-and-communications/branding-style-guidelines for official style guidelines and contact information. Usage for public and personal websites will not be approved. You are free to set this theme up on a local test environment if you are curious about the code and setup. Thank you and Go Cougs!
 
-# wsuv-drupal-web
+# Theme information and specifications
 
 name = WSU Vancouver Omega  
 description = WSU Vancouver HTML5 Omega subtheme.  
@@ -13,7 +13,7 @@ base theme = omega
 base theme version = 7.x-3.1   
 browser support = IE 8+ (limited IE 7 support), Safari 4+, Firefox 3.5+, Chrome 4+, iOS 6+, Android 3+
 
-# setup-instructions
+# Setup instructions
 
 * Enable and set as default – WSU Vancouver Omega theme
 * Enable necessary Modules and Admin Role permissions
@@ -30,9 +30,7 @@ browser support = IE 8+ (limited IE 7 support), Safari 4+, Firefox 3.5+, Chrome 
 * Configure URL aliases (Clear cache to show Taxonomy term fields), remove /content/
 * Setup Google CSE (see below)
 
-# google-cse-setup
-
-Google CSE (Custom Search Engine)
+# Google CSE (Custom Search Engine) setup
 
 * In /admin/config/search/settings/ enable Google CSE for Active and Default Search Modules
 * After saving, add the appropriate Google CSE ID
@@ -41,7 +39,7 @@ Google CSE (Custom Search Engine)
 * Google CSE requires Clean URLs to be setup to work
 * Add a default block to display in the search results with search/ and search/*
 
-# additional-credits
+# Additional credits
 
 https://www.drupal.org/  
 https://www.drupal.org/project/omega  
@@ -49,6 +47,6 @@ https://github.com/drupal/drupal
 https://github.com/viljamis/responsive-nav.js  
 https://github.com/alanmcginnis
 
-# related-projects
+# Related projects
 
 https://github.com/washingtonstateuniversity
