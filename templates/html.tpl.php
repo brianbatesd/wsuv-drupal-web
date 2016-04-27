@@ -77,7 +77,7 @@
 
 		<ul class="logo-action-links">
 			<li><a href="http://studentaffairs.vancouver.wsu.edu/student-involvement/request-campus-tour">Campus tour</a></li>
-			<li><a href="https://inquiry.wsu.edu/Vancouver">Request info</a></li>
+			<li><a href="https://www.applyweb.com/fixie/form/s/T7W13sd">Request info</a></li>
 			<li><a class="apply-now" href="http://studentaffairs.vancouver.wsu.edu/admissions/apply">Apply now</a></li>
 		</ul>
 

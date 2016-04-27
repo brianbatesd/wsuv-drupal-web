@@ -286,7 +286,7 @@ iframe.full {
 span.ext,
 span.mailto {
     display: none;
-} /* bug: external links module breaks mobile layout when it falls on the viewport edge */
+} /* bug: extlinks module breaks mobile layout when it falls on the viewport edge */
 
 
 /* FORMS */
@@ -544,7 +544,7 @@ ul.nav li a:hover {
 
 #google-cse .form-text {
     background-image: none !important;
-} /* remove watermark per non-profit exception */
+} /* remove watermark per non-profit exception allowance */
 
 #google-cse-results iframe {
     width: 100%;
@@ -826,13 +826,6 @@ ul.logo-action-links li a:hover.apply-now {
 
 .responsive-menus.responsified .responsive-menus-simple li ul li ul li a {
     padding: 0 10px 0 40px;
-}
-
-
-/* RIGHT SIDEBAR BLOCK */
-
-#block-views-calendar-block-2 {
-    margin-bottom: 2em;
 }
 
 
@@ -1356,6 +1349,10 @@ h2.block-title {
 .region-sidebar-second ul li {
     margin-left: 1.1em;
     font-size: 1.1em;
+}
+
+#block-views-calendar-block-2 {
+    margin-bottom: 2em;
 }
 
 
