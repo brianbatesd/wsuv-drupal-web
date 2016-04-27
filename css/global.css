@@ -251,10 +251,6 @@ td.gsc-table-cell-snippet-close,
   margin: 0;
 } /* Google CSE remove table backgrounds */
 
-/* td.gcsc-branding-text div.gcsc-branding-text tr:hover td,
-td.gcsc-branding-img-noclear tr:hover td {
-} */
-
 tr.even td {
     background-color: #f8f8f8;
 }
