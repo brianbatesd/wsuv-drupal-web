@@ -242,6 +242,19 @@ td {
     border-bottom: 2px solid #fff;
 }
 
+td.gsc-result-info-container,
+td.gsc-table-cell-snippet-close,
+.gsc-resultsHeader td.gsc-twiddleRegionCell,
+.gsc-resultsHeader td.gsc-configLabelCell {
+  background-color: #fff;
+  padding: 0;
+  margin: 0;
+} /* Google CSE remove table backgrounds */
+
+/* td.gcsc-branding-text div.gcsc-branding-text tr:hover td,
+td.gcsc-branding-img-noclear tr:hover td {
+} */
+
 tr.even td {
     background-color: #f8f8f8;
 }
