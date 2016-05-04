@@ -31,7 +31,7 @@
     	<div id="quick-links-wrapper"> <!-- BEGIN QUICK LINKS WRAPPER -->
 
     	<ul class="quick-links-left">
-    		<!-- <li><a href="http://www.vancouver.wsu.edu" title="Home">Home</a></li> --> <li><a href="https://connect.wsu.edu/">Staff Email</a></li>
+    		<li><a href="https://connect.wsu.edu/">Staff Email</a></li>
     		<li><a href="http://library.vancouver.wsu.edu">Library</a></li>
     		<li><a href="http://studentaffairs.vancouver.wsu.edu/student-affairs/bookie-student-bookstore">Bookstore</a></li>
     		<li><a href="http://about.wsu.edu/about/statewide.aspx">WSU Statewide</a></li>
@@ -39,8 +39,7 @@
     	</ul>
 
     	<ul class="quick-links-right">
-			<li><a href="https://my.wsu.edu/">myWSU</a></li>
-    		<li><a href="http://lms.wsu.edu/">Angel</a></li>
+    		<li><a href="https://my.wsu.edu/">myWSU</a></li>
     		<li><a href="http://learn.wsu.edu/">Blackboard</a></li>
     		<li><a href="http://directory.vancouver.wsu.edu">Directory</a></li>
     		<li><a href="http://admin.vancouver.wsu.edu/information-technology">Tech Support</a></li>
@@ -112,7 +111,7 @@
 			<li><a href="http://studentaffairs.vancouver.wsu.edu/majors-and-programs">Majors and Programs</a></li>
 			<li>&nbsp;</li>
 			<li class="sitemap-title">Current Students</li>
-			<li><a href="http://lms.wsu.edu/">Angel</a> / <a href="http://learn.wsu.edu/">Blackboard</a></li>
+			<li><a href="http://learn.wsu.edu/">Blackboard</a></li>
 			<li><a href="http://library.vancouver.wsu.edu">Library</a></li>
 			<li><a href="http://studentaffairs.vancouver.wsu.edu/osi">Student Involvement</a></li>
 			<li><a href="http://studentaffairs.vancouver.wsu.edu/student-involvement/registered-student-organizations-rsos">Student Organizations</a></li>
