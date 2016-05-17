@@ -1,4 +1,4 @@
-This repository exists solely for backup redundancy and educational purposes. Use of this theme for official university business by staff, faculty, students, student organizations, constituents, community, et al. requires approval from Marketing and Communications at WSU Vancouver. Please see http://admin.vancouver.wsu.edu/marketing-and-communications/branding-style-guidelines for official style guidelines and contact information. Usage for public and personal websites will not be approved. You are free to set this theme up on a local or private test environment if you are curious about the code and setup. Thank you and Go Cougs!
+This repository exists solely for backup redundancy and educational purposes. Use of this theme for official university business by staff, faculty, students, student organizations, constituents, community, et al. requires approval from Marketing and Communications at WSU Vancouver. Please see https://admin.vancouver.wsu.edu/marketing-and-communications/branding-style-guidelines for official style guidelines and contact information. Usage for public and personal websites will not be approved. You are free to set this theme up on a local or private test environment if you are curious about the code and setup. Thank you and Go Cougs!
 
 # Theme information and specifications
 
@@ -6,7 +6,7 @@ name = WSU Vancouver Omega
 description = WSU Vancouver HTML5 Omega subtheme.  
 organization = Washington State University Vancouver  
 author: Brian Bates  
-contributors: Aaron Thorne, Alan McGinnis  
+contributors: Aaron Thorne, Alan McGinnis
 core = Drupal 7.x  
 engine = phptemplate  
 base theme = omega  
