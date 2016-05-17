@@ -104,7 +104,7 @@ ul.nav li {
 }
 
 .search input[type=submit] {
-  background: url("/sites/www.vancouver.wsu.edu/themes/omegawsuv/search.png") no-repeat center center;
+  background: url("https://www.vancouver.wsu.edu/sites/www.vancouver.wsu.edu/themes/omegawsuv/search.png") no-repeat center center;
   width: 34px;
   height: 34px;
   background-size: 34px;

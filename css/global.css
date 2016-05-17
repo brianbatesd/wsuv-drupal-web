@@ -531,7 +531,7 @@ ul.nav li a:hover {
 }
 
 .search input[type=submit] {
-    background: url("/sites/www.vancouver.wsu.edu/themes/omegawsuv/search.png") no-repeat center center;
+    background: url("https://www.vancouver.wsu.edu/sites/www.vancouver.wsu.edu/themes/omegawsuv/search.png") no-repeat center center;
     width: 34px;
     height: 34px;
     background-size: 34px;
@@ -879,7 +879,7 @@ h1.home-lead-title-main {
 }
 
 .home-lead-pane {
-    background: url("http://www.vancouver.wsu.edu/sites/www.vancouver.wsu.edu/files/images/home-lead-background.jpg") repeat center;
+    background: url("https://www.vancouver.wsu.edu/sites/www.vancouver.wsu.edu/files/images/home-lead-background.jpg") repeat center;
     background-color: #262b2d;
     overflow: hidden;
     margin-bottom: 2em;
@@ -974,7 +974,7 @@ ol.flex-control-nav {
 .pane-views-alerts-block {
     background: #f8f8f8;
     /* background: #fef5f1; default pink */
-    background-image: url("/misc/message-24-error.png");
+    background-image: url("https://www.vancouver.wsu.edu/misc/message-24-error.png");
     /* system error icon */
     background-position: .75em;
     background-repeat: no-repeat;
