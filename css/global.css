@@ -251,8 +251,12 @@ td.gsc-table-cell-snippet-close,
   margin: 0;
 } /* Google CSE remove table backgrounds */
 
+/* td.gcsc-branding-text div.gcsc-branding-text tr:hover td,
+td.gcsc-branding-img-noclear tr:hover td {
+} */
+
 tr.even td {
-    background-color: #f8f8f8;
+    background-color: #e7e9ea;
 }
 
 tr.even td.active {
@@ -262,7 +266,7 @@ tr.even td.active {
 tr:hover td,
 td.even:hover td.active,
 tr.odd:hover td.active {
-    background: #e7e9ea;
+    background: #f8f8f8;
 }
 
 blockquote {
@@ -974,7 +978,7 @@ ol.flex-control-nav {
 .pane-views-alerts-block {
     background: #f8f8f8;
     /* background: #fef5f1; default pink */
-    background-image: url("https://www.vancouver.wsu.edu/misc/message-24-error.png");
+    background-image: url("/misc/message-24-error.png");
     /* system error icon */
     background-position: .75em;
     background-repeat: no-repeat;
@@ -1510,3 +1514,5 @@ h2.block-title {
 .search-icon {
     max-width: 25px;
 }
+
+.page-links {display: none;}
