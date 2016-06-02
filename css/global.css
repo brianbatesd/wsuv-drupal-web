@@ -1029,7 +1029,8 @@ ol.flex-control-nav {
 .pane-views-human-resources-jobs-block-1,
 .pane-views-tech-alerts-block-1,
 .pane-views-orge-events-block,
-.pane-views-orge-grants-block {
+.pane-views-orge-grants-block,
+.panel-col-bottom.panel-panel {
     padding-top: 1.5em;
     padding-bottom: 1.5em;
     border-top: 10px solid #f8f8f8;
