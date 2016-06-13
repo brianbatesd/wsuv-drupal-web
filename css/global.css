@@ -307,6 +307,7 @@ li blockquote {
 
 hr {
     background: #e7e9ea;
+    margin: 2em 0 2em 0;
 }
 
 hr.landing {
