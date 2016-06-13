@@ -292,8 +292,13 @@ blockquote {
     color: #4b5559;
 }
 
+blockquote h2,
+blockquote h3 {
+    padding: 1em 1.5em 0 1em;
+}
+
 blockquote p {
-    padding: 1em 1.5em 0 1.5em; 
+    padding: 1em 1.5em 0 1.5em;
 }
 
 li blockquote {
