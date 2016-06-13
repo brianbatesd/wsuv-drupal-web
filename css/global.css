@@ -287,22 +287,9 @@ tr.odd:hover td.active {
 
 blockquote {
     margin: 0 0 1.5em 0;
-    padding: 1.5em 1.5em 1.5em 1.5em;
+    padding: 1.75em 1.5em .75em 1.5em;
     background: #f8f8f8;
     color: #4b5559;
-}
-
-blockquote h2,
-blockquote h3 {
-    padding: 1em 1.5em 0 1em;
-}
-
-blockquote p {
-    padding: 1em 1.5em 0 1.5em;
-}
-
-li blockquote {
-    margin-top: 1.5em;
 }
 
 hr {
