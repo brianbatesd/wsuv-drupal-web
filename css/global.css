@@ -913,7 +913,7 @@ p.home-lead-paragraph {
 p.home-lead-button-responsive,
 p.lead-button-responsive {
     text-align: center;
-    margin-top: 1.75em;
+    margin: 2em 0 2.5em 0;
 }
 
 a.home-lead-button-main,
