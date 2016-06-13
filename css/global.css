@@ -181,6 +181,21 @@ ol {
     margin-bottom: 1em;
 }
 
+.region-content-inner li {
+    padding-bottom: .3em;
+}
+
+ul li ul,
+ul li ol,
+ol li ul {
+    margin-bottom: 0;
+}
+
+ul li ol,
+ol li ul {
+    padding-top: .4em;
+}
+
 ul li ul li {
     list-style-type: circle;
 }
