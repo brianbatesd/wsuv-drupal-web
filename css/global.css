@@ -991,11 +991,13 @@ ol.flex-control-nav {
     width: 100%;
 } /* IMPORTANT! force single column panel layout on mobile */
 
+/* homepage alerts block */
+
 .pane-views-alerts-block {
     background: #f8f8f8;
     /* background: #fef5f1; default pink */
     background-image: url("/misc/message-24-error.png");
-    /* system error icon */
+    /* system error/alert icon */
     background-position: .75em;
     background-repeat: no-repeat;
     border: 1px solid #e7e9ea;
@@ -1003,8 +1005,6 @@ ol.flex-control-nav {
     padding: .75em .75em .75em 3em;
     margin-bottom: 2em;
 }
-
-/* homepage alerts block */
 
 .events-item-list ul,
 .pr-item-list ul {
@@ -1015,7 +1015,7 @@ ol.flex-control-nav {
 .events-item-list ul li,
 .pr-item-list ul li {
     border-bottom: 1px solid #e7e9ea;
-    padding: 1em 0;
+    padding: 1.25em 0;
 }
 
 /* PANEL STYLES */
