@@ -181,7 +181,8 @@ ol {
     margin-bottom: 1em;
 }
 
-.region-content-inner li {
+.region-content-inner li,
+.region-sidebar-second-inner li {
     padding-bottom: .3em;
 }
 
