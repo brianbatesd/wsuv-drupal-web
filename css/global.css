@@ -292,6 +292,16 @@ blockquote {
     color: #4b5559;
 }
 
+blockquote.highlight {
+    background-color: #262b2d;
+}
+
+blockquote.highlight a,
+blockquote.highlight strong,
+blockquote.highlight p {
+  color: #fff;
+}
+
 hr {
     background: #e7e9ea;
     margin: 2em 0 2em 0;
