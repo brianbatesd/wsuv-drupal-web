@@ -7,6 +7,7 @@
 <html lang="<?php print $language->language; ?>" dir="<?php print $language->dir; ?>"<?php print $rdf->version . $rdf->namespaces; ?>><!--<![endif]-->
 <head<?php print $rdf->profile; ?>>
   <?php print $head; ?>
+  <meta http-equiv="X-UA-Compatible" content="IE=EDGE">
   <title><?php print $head_title; ?></title>
   <?php print $styles; ?>
   <?php print $scripts; ?>
