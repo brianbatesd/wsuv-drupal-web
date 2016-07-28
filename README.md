@@ -2,15 +2,15 @@ Please see https://admin.vancouver.wsu.edu/marketing-and-communications/branding
 
 # Theme information and specifications
 
-name = WSU Vancouver Omega
-description = WSU Vancouver HTML5 Omega subtheme
-organization = Washington State University Vancouver
-contributors = Brian Bates, Aaron Thorne, Alan McGinnis
-engine = phptemplate
-core = Drupal 7.x
-base theme = omega
-base theme version = 7.x-3.1
-browser support = IE 8+ (limited IE 7 support), Safari 4+, Firefox 3.5+, Chrome 4+, iOS 6+, Android 3+
+name = WSU Vancouver Omega  
+description = WSU Vancouver HTML5 Omega subtheme  
+organization = Washington State University Vancouver  
+contributors = Brian Bates, Aaron Thorne, Alan McGinnis  
+core = Drupal 7.x  
+engine = phptemplate  
+base theme = omega  
+base theme version = 7.x-3.1  
+browser support = IE 8+ (limited IE 7 support), Safari 4+, Firefox 3.5+, Chrome 4+, iOS 6+, Android 3+  
 
 # Setup instructions
 
