@@ -37,6 +37,10 @@ browser support = IE 8+ (limited IE 7 support), Safari 4+, Firefox 3.5+, Chrome 
 * Google CSE requires Clean URLs to be setup to work
 * Add a default block to display in the search results with search/ and search/*
 
+# CSS HTML element visual reference
+
+https://admin.vancouver.wsu.edu/marketing-and-communications/web-style-guide
+
 # Additional credits
 
 https://www.drupal.org/  
