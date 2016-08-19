@@ -117,15 +117,15 @@ img.block {
     width: 60%;
 }
 
+img.right-normal {
+    float: right;
+    margin: 0 0 15px 15px;
+}
+
 img.right-small {
     float: right;
     margin: 0 0 15px 15px;
     width: 50%;
-}
-
-img.right-normal {
-    float: right;
-    margin: 0 0 15px 15px;
 }
 
 img.right-icon {
@@ -144,6 +144,12 @@ img.left-normal {
     float: left;
     margin: 0 15px 15px 0;
     clear: left;
+}
+
+img.left-small {
+    float: left;
+    margin: 0 15px 15px 0;
+    width: 50%;
 }
 
 img.border {
