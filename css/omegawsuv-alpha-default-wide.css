@@ -12,7 +12,8 @@ img.right, img.left, img.border {
   width: 40%;
 }
 
-img.right-small {
+img.right-small,
+img.left-small {
   width: 25%;
 }
 

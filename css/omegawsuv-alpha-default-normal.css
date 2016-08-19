@@ -11,11 +11,14 @@
 
 /* HTML */
 
-img.right, img.left, img.border {
+img.right,
+img.left,
+img.border {
   width: 45%;
 }
 
-img.right-small {
+img.right-small,
+img.left-small {
   width: 25%;
 }
 

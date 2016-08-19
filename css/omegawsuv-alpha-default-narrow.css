@@ -32,7 +32,8 @@ iframe.responsive {
     width: 85%;
 }
 
-img.right-small {
+img.right-small,
+img.left-small {
     width: 35%;
 }
 
