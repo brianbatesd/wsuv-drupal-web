@@ -77,7 +77,7 @@
 		<a href="https://www.vancouver.wsu.edu" title="Home"><img class="primary-logo" src="https://www.vancouver.wsu.edu/sites/www.vancouver.wsu.edu/themes/omegawsuv/wsuvancouver-primarylogo.png" alt="WSU Vancouver logo"></a>
 
 		<ul class="logo-action-links">
-			<li><a href="https://studentaffairs.vancouver.wsu.edu/student-involvement/request-campus-tour">Visit campus</a></li>
+			<li><a href="https://studentaffairs.vancouver.wsu.edu/admissions/visit-campus">Visit campus</a></li>
 			<li><a href="https://www.applyweb.com/fixie/form/s/T7W13sd">Request info</a></li>
 			<li><a class="apply-now" href="https://studentaffairs.vancouver.wsu.edu/admissions/apply">Apply now</a></li>
 		</ul>
