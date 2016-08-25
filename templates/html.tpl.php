@@ -33,10 +33,10 @@
 
     	<ul class="quick-links-left">
     		<li><a href="https://connect.wsu.edu/">Staff Email</a></li>
-    		<li><a href="https://library.vancouver.wsu.edu">Library</a></li>
+        <li><a href="https://library.vancouver.wsu.edu">Library</a></li>
+        <li><a href="https://admin.vancouver.wsu.edu/academic-affairs">Academics</a></li>
     		<li><a href="https://studentaffairs.vancouver.wsu.edu/student-affairs/bookie-student-bookstore">Bookstore</a></li>
     		<li><a href="https://wsu.edu/about/statewide/">WSU Statewide</a></li>
-    		<li><a href="https://secure.wsu.edu/give/default.aspx?area=38">Give to WSU</a></li>
     	</ul>
 
     	<ul class="quick-links-right">
@@ -55,11 +55,11 @@
 
     	<ul class="nav">
         <li><a href="https://www.vancouver.wsu.edu/about-wsu-vancouver">About</a></li>
-    		<li><a href="https://admin.vancouver.wsu.edu/academic-affairs">Academics</a></li>
-    		<li><a href="https://studentaffairs.vancouver.wsu.edu/admissions">Admissions</a></li>
-        <li><a href="https://admin.vancouver.wsu.edu/development-and-alumni-relations">Alumni</a></li>
+        <li><a href="https://studentaffairs.vancouver.wsu.edu/admissions">Admissions</a></li>
+    		<li><a href="https://studentaffairs.vancouver.wsu.edu/admissions/degrees-majors-and-programs">Degrees</a></li>
         <li><a href="https://studentaffairs.vancouver.wsu.edu/student-affairs/resources-current-students">Current Students</a></li>
         <li><a href="https://admin.vancouver.wsu.edu/research">Research</a></li>
+        <li><a href="https://admin.vancouver.wsu.edu/development-and-alumni-relations">Alumni</a></li>
     	</ul>
 
     	<div id="google-cse"> <!-- BEGIN GOOGLE CSE -->
