@@ -101,7 +101,7 @@ strong {
 
 .page-links {
   display: none;
-} /* because external links module breaks mobile layout */
+}
 
 #toolbar strong {
     color: #fff;
