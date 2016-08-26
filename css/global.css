@@ -1563,6 +1563,11 @@ h2.block-title {
     visibility: visible;
 }
 
+#copyright ul.links-mobile {
+    list-style-type: none;
+}
+
+
 #copyright ul.contact-info li {
     margin-left: 10px;
     list-style-type: none;
