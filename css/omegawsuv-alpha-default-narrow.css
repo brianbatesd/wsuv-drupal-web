@@ -213,7 +213,7 @@ div.panel-pane.pane-block.pane-views-calendar-block-3 {
 }
 
 #copyright {
-    height: 14em;
+    height: 16em;
 }
 
 #copyright-wrapper {
@@ -221,10 +221,22 @@ div.panel-pane.pane-block.pane-views-calendar-block-3 {
     padding-left: 20px;
 }
 
-#copyright p {
-    font-size: .95em;
+#copyright ul.policies li {
+    float: left;
+    margin-bottom: 1.5em;
+    margin-right:  1em;
 }
 
-#copyright p.links-mobile {
-    visibility: hidden;
+#copyright ul.links-mobile {
+    display: none;
+}
+
+#copyright ul.contact-info {
+    float: left;
+    clear: left;
+}
+
+#copyright p.social {
+    float: left;
+    clear: left;
 }

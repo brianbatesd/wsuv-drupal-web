@@ -189,7 +189,7 @@ img.right-icon {
 }
 
 #copyright {
-  height: 7em;
+  height: 10em;
 }
 
 #copyright-wrapper {
@@ -197,34 +197,35 @@ img.right-icon {
   padding-left: 20px;
 }
 
-#copyright p {
-  font-size: 1em;
+#copyright ul.links-mobile,
+#copyright ul.contact-info li.list-title {
+  display: none;
 }
 
-#copyright p.legal, #copyright p.legal a, #copyright p.address, #copyright p.address a {
-  text-transform: uppercase;
-  letter-spacing: .5px;
+#copyright #contact-wrapper {
+    float: right;
+    margin-right: 1.5em;
 }
 
-#copyright p.legal {
-  float: left;
-}
-
-#copyright p.links-mobile {
-  float: left;
-  clear: left;
-}
-
-#copyright p.address {
-  text-align: right;
-  padding-right: 20px;
-}
-
-#copyright p.links-mobile {
-  visibility: hidden;
+#copyright ul.contact-info li {
+    margin-right: 1em;
+    margin-left: .5em;
+    list-style-type: none;
+    float: left;
 }
 
 #copyright p.social {
-  text-align: right;
-  padding-right: 20px;
+    float: right;
+    margin-top: 1em;
+    margin-bottom: 2em;
+    margin-right: .75em;
+}
+
+#copyright p.social {
+    text-align: right;
+}
+
+#copyright p.social img {
+    margin-right: 1em;
+    margin-left: 0;
 }

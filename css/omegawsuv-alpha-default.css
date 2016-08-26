@@ -217,9 +217,5 @@ ul.sitemap-footer-column4 {
 
 #copyright {
     height: 12em;
-    font-size: .9em;
-}
-
-#copyright p.links-mobile {
-    visibility: hidden;
+    line-height: 1.4em;
 }

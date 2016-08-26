@@ -115,10 +115,10 @@
 			<li class="sitemap-title">Current Students</li>
 			<li><a href="http://learn.wsu.edu/">Blackboard</a></li>
 			<li><a href="https://library.vancouver.wsu.edu">Library</a></li>
+      <li><a href="http://outlook.office365.com/">Student Email</a></li>
 			<li><a href="https://studentaffairs.vancouver.wsu.edu/osi">Student Involvement</a></li>
 			<li><a href="https://studentaffairs.vancouver.wsu.edu/student-involvement/registered-student-organizations-rsos">Student Organizations</a></li>
 			<li><a href="https://studentaffairs.vancouver.wsu.edu/src">Student Resource Center</a></li>
-			<li><a href="http://outlook.office365.com/">Student Email</a></li>
     	</ul>
 
   		<ul class="sitemap-footer-column3">
@@ -156,10 +156,34 @@
 
     <div id="copyright"> <!-- BEGIN COPYRIGHT -->
   		<div id="copyright-wrapper"> <!-- BEGIN COPYRIGHT WRAPPER -->
-  		<p class="legal">&copy; WSU Vancouver | <a href="https://oeo.wsu.edu/">Accessibility</a> | <a href="https://policies.wsu.edu/">Policies</a> | <a href="http://public.wsu.edu/~forms/ProposedWAC.html">Rule making</a> | <a href="https://ucomm.wsu.edu/wsu-copyright-policy/">Copyright</a></p>
-  		<p class="links-mobile"><a href="https://my.wsu.edu/">myWSU</a> | <a href="http://learn.wsu.edu/">Blackboard</a> | <a href="https://connect.wsu.edu/">Staff Email</a> | <a href="http://directory.vancouver.wsu.edu/">Directory</a> | <a href="https://studentaffairs.vancouver.wsu.edu/student-affairs/bookie-student-bookstore">Bookstore</a> | <a href="http://directory.vancouver.wsu.edu/">Library</a></p>
-  		<p class="address"><a href="https://www.vancouver.wsu.edu/campus-map-directions-and-parking-information" title="Campus map, directions and parking information">14204 NE Salmon Creek Ave, Vancouver, WA, 98686</a> | 360-546-9788</p>
+  	  <ul class="policies">
+        <li class="list-title">&copy; WSU Vancouver</li>
+        <li><a href="https://oeo.wsu.edu/">Accessibility</a></li>
+        <li><a href="https://policies.wsu.edu/">Policies</a></li>
+        <li><a href="http://public.wsu.edu/~forms/ProposedWAC.html">Rule making</a></li>
+        <li class=><a href="https://ucomm.wsu.edu/wsu-copyright-policy/">Copyright</a></li>
+      </ul>
+
+  		<ul class="links-mobile"> <!-- ADD TO STYLESHEET -->
+        <li class="list-title">Resources</li>
+        <li><a href="https://my.wsu.edu/">myWSU</a></li>
+        <li><a href="http://learn.wsu.edu/">Blackboard</a></li>
+        <li><a href="https://connect.wsu.edu/">Staff Email</a></li>
+        <li><a href="http://office365.wsu.edu/">Student Email</a></li>
+        <li><a href="http://directory.vancouver.wsu.edu/">Directory</a></li>
+        <li><a href="https://studentaffairs.vancouver.wsu.edu/student-affairs/bookie-student-bookstore">Bookstore</a></li>
+        <li><a href="http://directory.vancouver.wsu.edu/">Library</a></li>
+      </ul>
+
+      <div id="contact-wrapper">
+  		<ul class="contact-info">
+        <li class="list-title">Contact</li>
+        <li><a href="https://www.vancouver.wsu.edu/campus-map-directions-and-parking-information" alt="Map, parking and directions">14204 NE Salmon Creek Ave, Vancouver, WA, 98686</a></li>
+        <li>360-546-9788</li>
+      </ul>
+
   		<p class="social"><a href="https://www.facebook.com/wsuvancouver"><img src="https://www.vancouver.wsu.edu/sites/www.vancouver.wsu.edu/themes/omegawsuv/social-facebook.png" alt="Facebook"></a> <a href="https://www.twitter.com/wsuvancouver"><img src="https://www.vancouver.wsu.edu/sites/www.vancouver.wsu.edu/themes/omegawsuv/social-twitter.png" alt="Twitter"></a> <a href="https://www.instagram.com/wsuvancouver"><img src="https://www.vancouver.wsu.edu/sites/www.vancouver.wsu.edu/themes/omegawsuv/social-instagram.png" alt="Instagram"></a> <a href="https://www.flickr.com/wsuvancouver"><img src="https://www.vancouver.wsu.edu/sites/www.vancouver.wsu.edu/themes/omegawsuv/social-flickr.png" alt="Flickr"></a> <a href="https://www.youtube.com/wsuvancouver"><img src="https://www.vancouver.wsu.edu/sites/www.vancouver.wsu.edu/themes/omegawsuv/social-youtube.png" alt="YouTube" class="social-last"></a></p>
+
   		</div> <!-- END COPYRIGHT WRAPPER -->
   	</div> <!-- END COPYRIGHT -->
 

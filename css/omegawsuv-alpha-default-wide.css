@@ -169,44 +169,22 @@ img.right-icon {
   background: #fff;
   color: #262b2d;
   text-decoration: none;
-}
+} /* negative values recenter the hover box */
 
 #copyright {
-  height: 7em;
+  height: 10em;
 }
 
 #copyright-wrapper {
   max-width: 1220px;
 }
 
-#copyright p {
-  font-size: 1.1em;
+#copyright ul.links-mobile,
+#copyright ul.contact-info li.list-title {
+    display: none;
 }
 
-#copyright p.legal, #copyright p.legal a, #copyright p.address, #copyright p.address a {
-  text-transform: uppercase;
-  letter-spacing: 1px;
-}
-
-#copyright p.legal {
-  float: left;
-}
-
-#copyright p.links-mobile {
-  float: left;
-  clear: left;
-}
-
-#copyright p.address {
-  text-align: right;
-  padding-right: 20px;
-}
-
-#copyright p.links-mobile {
-  visibility: hidden;
-}
-
-#copyright p.social {
-  text-align: right;
-  padding-right: 20px;
+#copyright p.social img {
+    margin-right: 1em;
+    margin-left: 0;
 }
