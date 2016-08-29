@@ -173,6 +173,7 @@
         <li><a href="http://directory.vancouver.wsu.edu/">Directory</a></li>
         <li><a href="https://studentaffairs.vancouver.wsu.edu/student-affairs/bookie-student-bookstore">Bookstore</a></li>
         <li><a href="http://directory.vancouver.wsu.edu/">Library</a></li>
+        <li><a href="https://admin.vancouver.wsu.edu/information-technology/wsu-vancouver-wifi">Wi-fi</a></li>
       </ul>
 
       <div id="contact-wrapper">
