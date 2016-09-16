@@ -238,23 +238,24 @@ a:hover strong {
 }
 
 table {
+    display: block;
+    overflow-x: auto;
     border-collapse: collapse;
     border-spacing: 0;
     border: none;
     width: 100%;
-    margin-top: 1.5em;
-    margin-bottom: 1.5em;
-    background-color: #eee;
+    margin: 1.5em 0 2em 0;
 }
 
 th {
     text-align: left;
     vertical-align: bottom;
-    padding: .5em 1em;
+    padding: .5em 2em .5em 0;
     border-bottom: none;
-    color: #fff;
-    background-color: #262b2d;
-    border-bottom: 2px solid #fff;
+    font-weight: bold;
+    color: #363d40;
+    border-bottom: 1px solid #e7e9ea;
+    background: #fff;
 }
 
 tbody {
@@ -262,10 +263,9 @@ tbody {
 }
 
 td {
-    padding: 1em;
+    padding: .5em 2em .5em 0;
     vertical-align: top;
-    color: #444;
-    border-bottom: 2px solid #fff;
+    border-bottom: 1px solid #e7e9ea;
 }
 
 td.gsc-result-info-container,
