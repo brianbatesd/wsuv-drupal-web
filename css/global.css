@@ -258,6 +258,11 @@ th {
     background: #fff;
 }
 
+thead th {
+    background-color: #fff;
+    border-bottom: 1px solid #e7e9ea;
+}
+
 tbody {
     border-top: none;
 }
@@ -282,11 +287,11 @@ td.gcsc-branding-img-noclear tr:hover td {
 } */
 
 tr.even td {
-    background-color: #e7e9ea;
+    background-color: #fff;
 }
 
 tr.even td.active {
-    background: #ccc;
+    background-color: #fff;
 }
 
 tr:hover td,
@@ -1114,6 +1119,10 @@ a.lead-button-main:hover {
     padding-top: 1.5em;
     padding-bottom: 1.5em;
     border-top: 10px solid #f8f8f8;
+}
+
+.pane-views-human-resources-jobs-block-1 table td {
+    border-bottom: 1px solid #fff;
 }
 
 .pane-1 img,
