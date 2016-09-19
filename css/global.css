@@ -280,6 +280,7 @@ td.gsc-table-cell-snippet-close,
   background-color: #fff;
   padding: 0;
   margin: 0;
+  border: 0;
 } /* Google CSE remove table backgrounds */
 
 /* td.gcsc-branding-text div.gcsc-branding-text tr:hover td,
