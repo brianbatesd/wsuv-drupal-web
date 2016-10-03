@@ -18,6 +18,7 @@
   <link rel="apple-touch-icon" sizes="120x120" href="https://www.vancouver.wsu.edu/sites/www.vancouver.wsu.edu/themes/omegawsuv/apple-touch-icon-120x120.png">
   <link rel="apple-touch-icon" sizes="152x152" href="https://www.vancouver.wsu.edu/sites/www.vancouver.wsu.edu/themes/omegawsuv/apple-touch-icon-152x152.png">
   <meta name="apple-mobile-web-app-title" content="WSUV">
+  <meta name="format-detection" content="telephone=no">
   <link rel="icon" type="image/png" href="https://www.vancouver.wsu.edu/sites/www.vancouver.wsu.edu/themes/omegawsuv/favicon-16x16.png" sizes="16x16">
   <link rel="icon" type="image/png" href="https://www.vancouver.wsu.edu/sites/www.vancouver.wsu.edu/themes/omegawsuv/favicon-32x32.png" sizes="32x32">
 </head>
