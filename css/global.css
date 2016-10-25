@@ -860,6 +860,10 @@ ul.logo-action-links li a:hover.apply-now {
     margin-top: 1.5em;
 }
 
+.field-label-inline .field-label, .field-label-inline .field-items, .field-label-inline .field-item {
+    display: block;
+}
+
 
 /* IT docs */
 
@@ -1615,4 +1619,3 @@ h2.block-title {
     #region-content {
       width: 95%;
     }
-}
