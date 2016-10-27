@@ -1530,7 +1530,7 @@ h2.block-title {
 #copyright {
     background: #981e32;
     clear: both;
-    height: 39em;
+    height: 41em;
     padding: .5em 0 0 0;
     font-size: .9em;
     line-height: 1.7em;
@@ -1568,7 +1568,8 @@ h2.block-title {
 }
 
 #copyright ul.links-mobile,
-#copyright ul.contact-info li.list-title {
+#copyright ul.contact-info li.list-title,
+#copyright ul.policies li.about-mobile {
     visibility: visible;
 }
 

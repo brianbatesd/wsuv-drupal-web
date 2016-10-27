@@ -227,7 +227,8 @@ div.panel-pane.pane-block.pane-views-calendar-block-3 {
     margin-right:  1em;
 }
 
-#copyright ul.links-mobile {
+#copyright ul.links-mobile,
+#copyright ul.policies li.about-mobile {
     display: none;
 }
 

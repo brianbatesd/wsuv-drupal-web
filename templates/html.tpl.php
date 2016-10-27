@@ -34,18 +34,19 @@
 
     	<ul class="quick-links-left">
     		<li><a href="https://connect.wsu.edu/">Staff Email</a></li>
+    		<li><a href="http://outlook.office365.com/">Student Email</a></li>
         <li><a href="https://library.vancouver.wsu.edu">Library</a></li>
         <li><a href="https://admin.vancouver.wsu.edu/academic-affairs">Academics</a></li>
     		<li><a href="https://studentaffairs.vancouver.wsu.edu/student-affairs/bookie-student-bookstore">Bookstore</a></li>
-    		<li><a href="https://wsu.edu/about/statewide/">WSU Statewide</a></li>
+
     	</ul>
 
     	<ul class="quick-links-right">
     		<li><a href="https://my.wsu.edu/">myWSU</a></li>
+        <li><a href="https://wsu.edu/about/statewide/">WSU Statewide</a></li>
     		<li><a href="http://learn.wsu.edu/">Blackboard</a></li>
-    		<li><a href="http://directory.vancouver.wsu.edu">Directory</a></li>
     		<li><a href="https://admin.vancouver.wsu.edu/information-technology">Tech Support</a></li>
-    		<li><a href="https://www.ronet.wsu.edu/Main/Apps/RONetLogon.ASP">RONet</a></li>
+    		<li><a href="http://directory.vancouver.wsu.edu">Directory</a></li>
     	</ul>
 
     	</div> <!-- END QUICK LINKS WRAPPER -->
@@ -159,10 +160,11 @@
   		<div id="copyright-wrapper"> <!-- BEGIN COPYRIGHT WRAPPER -->
   	  <ul class="policies">
         <li class="list-title">&copy; WSU Vancouver</li>
+        <li class="about-mobile"><a href="https://www.vancouver.wsu.edu/about-wsu-vancouver">About</a></li>
         <li><a href="https://oeo.wsu.edu/">Accessibility</a></li>
         <li><a href="https://policies.wsu.edu/">Policies</a></li>
         <li><a href="http://public.wsu.edu/~forms/ProposedWAC.html">Rule making</a></li>
-        <li class=><a href="https://ucomm.wsu.edu/wsu-copyright-policy/">Copyright</a></li>
+        <li><a href="https://ucomm.wsu.edu/wsu-copyright-policy/">Copyright</a></li>
       </ul>
 
   		<ul class="links-mobile"> <!-- ADD TO STYLESHEET -->
