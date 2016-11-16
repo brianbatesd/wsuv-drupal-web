@@ -34,7 +34,7 @@
 
     	<ul class="quick-links-left">
     		<li><a href="https://connect.wsu.edu/">Staff Email</a></li>
-    		<li><a href="http://outlook.office365.com/">Student Email</a></li>
+    		<li><a href="http://office365.wsu.edu/">Student Email</a></li>
         <li><a href="https://library.vancouver.wsu.edu">Library</a></li>
         <li><a href="https://admin.vancouver.wsu.edu/academic-affairs">Academics</a></li>
     		<li><a href="https://studentaffairs.vancouver.wsu.edu/student-affairs/bookie-student-bookstore">Bookstore</a></li>
@@ -117,7 +117,7 @@
 			<li class="sitemap-title">Current Students</li>
 			<li><a href="http://learn.wsu.edu/">Blackboard</a></li>
 			<li><a href="https://library.vancouver.wsu.edu">Library</a></li>
-      <li><a href="http://outlook.office365.com/">Student Email</a></li>
+      <li><a href="http://office365.wsu.edu/">Student Email</a></li>
 			<li><a href="https://studentaffairs.vancouver.wsu.edu/osi">Student Involvement</a></li>
 			<li><a href="https://studentaffairs.vancouver.wsu.edu/student-involvement/registered-student-organizations-rsos">Student Organizations</a></li>
 			<li><a href="https://studentaffairs.vancouver.wsu.edu/src">Student Resource Center</a></li>
