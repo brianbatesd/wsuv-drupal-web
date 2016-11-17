@@ -626,7 +626,7 @@ ul.nav li a:hover {
 
 .search input[type=text] {
     width: 250px;
-    background: #e7e9ea;
+    background: #fff;
     color: #262b2d;
     font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif;
 }
