@@ -1066,13 +1066,10 @@ a.lead-button-main:hover {
 
 .pane-views-alerts-block {
     background: #f8f8f8;
-    /* background: #fef5f1; default pink */
-    background-image: url("/misc/message-24-error.png");
-    /* system error/alert icon */
+    background-image: url("/misc/message-24-warning.png");
     background-position: .75em;
     background-repeat: no-repeat;
     border: 1px solid #e7e9ea;
-    /* border: 1px solid #ed541d; default red */
     padding: .75em .75em .75em 3em;
     margin-bottom: 2em;
 }
