@@ -1167,7 +1167,8 @@ a.lead-button-main:hover {
 .pane-18 ul,
 .pane-19 ul,
 .pane-20 ul {
-    margin-left: 1.2em;
+    margin-left: 0;
+    padding-left: 0;
 }
 
 .pane-1 ul li,
