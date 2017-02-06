@@ -161,7 +161,7 @@
   	  <ul class="policies">
         <li class="list-title">&copy; WSU Vancouver</li>
         <li class="about-mobile"><a href="https://www.vancouver.wsu.edu/about-wsu-vancouver">About</a></li>
-        <li><a href="https://oeo.wsu.edu/">Accessibility</a></li>
+        <li><a href="https://access.wsu.edu/">Accessibility</a></li>
         <li><a href="https://policies.wsu.edu/">Policies</a></li>
         <li><a href="http://public.wsu.edu/~forms/ProposedWAC.html">Rule making</a></li>
         <li><a href="https://ucomm.wsu.edu/wsu-copyright-policy/">Copyright</a></li>
