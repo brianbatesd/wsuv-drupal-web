@@ -250,8 +250,7 @@ table {
 th {
     text-align: left;
     vertical-align: bottom;
-    padding: 1em 2em 0 0;
-    text-transform: uppercase;
+    padding: .5em 2em .5em 0;
     border-bottom: none;
     font-weight: bold;
     color: #363d40;
@@ -411,6 +410,56 @@ p.toggle-link:hover {
 
 /* FORMS */
 
+#zone-content select,
+#zone-content input[type="date"],
+#zone-content input[type="datetime"],
+#zone-content input[type="datetime-local"],
+#zone-content input[type="email"],
+#zone-content input[type="month"],
+#zone-content input[type="number"],
+#zone-content input[type="password"],
+#zone-content input[type="text"],
+#zone-content input[type="time"] {
+    border-color: #ccc;
+    height: 3em;
+    font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif;
+    color: #606e73;
+    font-size: 1em;
+}
+
+#zone-content button,
+#zone-content input[type="reset"],
+#zone-content input[type="submit"],
+#zone-content input[type="button"] {
+    font-size: 1em;
+    background: #981e32;
+    color: #fff;
+    border: none;
+    padding: 1em 2em;
+    margin: 1em 0;
+    border-radius: 0;
+    text-shadow: none;
+    transition: all .35s ease-in-out; /* hover fade */
+    -moz-transition: all .35s ease-in-out;
+    -webkit-transition: all .35s ease-in-out;
+}
+
+#zone-content button,
+#zone-content input[type="button"]:hover,
+#zone-content input[type="submit"]:hover,
+#zone-content input[type="reset"]:hover {
+    background-color: #b6bf00;
+    color: #262b2d;
+}
+
+input[type="radio"] {
+    color: #ccc;
+}
+
+textarea {
+    border-color: #ccc;
+}
+
 input {
     max-width: 100%;
 }
@@ -420,19 +469,26 @@ select {
 }
 
 fieldset {
-    border: 1px solid #e7e9ea;
-    padding: 1em;
+    border-top: 1px dashed #ccc;
+    font-weight: bold;
+}
+
+.fieldset-legend {
+    padding-right: .25em;
 }
 
 .links {
     margin-bottom: 2em;
+    font-size: 1.1em;
 }
 
 .form-required {
-  color: #c60c30;
+    color: #c60c30;
 }
 
-.form-item input.error, .form-item textarea.error, .form-item select.error {
+.form-item input.error,
+.form-item textarea.error,
+.form-item select.error {
     border: 2px solid #c60c30;
 }
 
@@ -604,9 +660,9 @@ ul.nav li a:hover {
 
 /* SEARCH */
 
-/*#google-cse {
+/* #google-cse {
   float: left;
-}*/
+} */
 
 .search {
     padding-top: .25em;
