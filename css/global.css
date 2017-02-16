@@ -470,11 +470,15 @@ select {
 
 fieldset {
     border-top: 1px dashed #ccc;
-    font-weight: bold;
 }
 
 .fieldset-legend {
+    font-weight: bold;  
     padding-right: .25em;
+}
+
+.description {
+    color: #606e73;
 }
 
 .links {
