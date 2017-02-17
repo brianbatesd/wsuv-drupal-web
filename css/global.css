@@ -444,7 +444,7 @@ p.toggle-link:hover {
     -webkit-transition: all .35s ease-in-out;
 }
 
-#zone-content button,
+#zone-content button:hover,
 #zone-content input[type="button"]:hover,
 #zone-content input[type="submit"]:hover,
 #zone-content input[type="reset"]:hover {
