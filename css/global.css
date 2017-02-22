@@ -432,6 +432,7 @@ p.toggle-link:hover {
 #zone-content input[type="submit"],
 #zone-content input[type="button"] {
     font-size: 1em;
+    font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif;    
     background: #981e32;
     color: #fff;
     border: none;
