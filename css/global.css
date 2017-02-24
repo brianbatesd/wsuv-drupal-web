@@ -432,7 +432,7 @@ p.toggle-link:hover {
 #zone-content input[type="submit"],
 #zone-content input[type="button"] {
     font-size: 1em;
-    font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif;    
+    font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif;
     background: #981e32;
     color: #fff;
     border: none;
@@ -504,6 +504,10 @@ fieldset {
 
 div.error, .error {
     color: #c60c30;
+}
+
+div.status p {
+    margin-bottom: 0;
 }
 
 .views-exposed-form .views-exposed-widget .form-submit {
@@ -669,10 +673,6 @@ ul.nav li a:hover {
 
 
 /* SEARCH */
-
-/* #google-cse {
-  float: left;
-} */
 
 .search {
     padding-top: .25em;
