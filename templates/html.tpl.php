@@ -33,7 +33,7 @@
     	<div id="quick-links-wrapper"> <!-- BEGIN QUICK LINKS WRAPPER -->
 
     	<ul class="quick-links-left">
-    		<li><a href="https://connect.wsu.edu/">Staff Email</a></li>
+    		<li><a href="https://outlook.office365.com/owa/wsu.edu/">Staff Email</a></li>
     		<li><a href="http://office365.wsu.edu/">Student Email</a></li>
         <li><a href="https://library.vancouver.wsu.edu">Library</a></li>
         <li><a href="https://admin.vancouver.wsu.edu/academic-affairs">Academics</a></li>
@@ -171,7 +171,7 @@
         <li class="list-title">Resources</li>
         <li><a href="https://my.wsu.edu/">myWSU</a></li>
         <li><a href="http://learn.wsu.edu/">Blackboard</a></li>
-        <li><a href="https://connect.wsu.edu/">Staff Email</a></li>
+        <li><a href="https://outlook.office365.com/owa/wsu.edu/">Staff Email</a></li>
         <li><a href="http://office365.wsu.edu/">Student Email</a></li>
         <li><a href="http://directory.vancouver.wsu.edu/">Directory</a></li>
         <li><a href="https://studentaffairs.vancouver.wsu.edu/student-affairs/bookie-student-bookstore">Bookstore</a></li>
