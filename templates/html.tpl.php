@@ -18,7 +18,7 @@
   <link rel="apple-touch-icon" sizes="120x120" href="https://www.vancouver.wsu.edu/sites/www.vancouver.wsu.edu/themes/omegawsuv/apple-touch-icon-120x120.png">
   <link rel="apple-touch-icon" sizes="152x152" href="https://www.vancouver.wsu.edu/sites/www.vancouver.wsu.edu/themes/omegawsuv/apple-touch-icon-152x152.png">
   <meta name="apple-mobile-web-app-title" content="WSUV">
-  <meta name="format-detection" content="telephone=no">
+  <!-- <meta name="format-detection" content="telephone=no"> -->
   <link rel="icon" type="image/png" href="https://www.vancouver.wsu.edu/sites/www.vancouver.wsu.edu/themes/omegawsuv/favicon-16x16.png" sizes="16x16">
   <link rel="icon" type="image/png" href="https://www.vancouver.wsu.edu/sites/www.vancouver.wsu.edu/themes/omegawsuv/favicon-32x32.png" sizes="32x32">
 </head>
@@ -33,12 +33,11 @@
     	<div id="quick-links-wrapper"> <!-- BEGIN QUICK LINKS WRAPPER -->
 
     	<ul class="quick-links-left">
-    		<li><a href="https://outlook.office365.com/owa/wsu.edu/">Staff Email</a></li>
-    		<li><a href="http://office365.wsu.edu/">Student Email</a></li>
+    		<li><a href="https://outlook.office365.com/owa/wsu.edu/">Webmail</a></li>
+    		<li><a href="http://office365.wsu.edu/">Office 365</a></li>
         <li><a href="https://library.vancouver.wsu.edu">Library</a></li>
         <li><a href="https://admin.vancouver.wsu.edu/academic-affairs">Academics</a></li>
     		<li><a href="https://studentaffairs.vancouver.wsu.edu/student-affairs/bookie-student-bookstore">Bookstore</a></li>
-
     	</ul>
 
     	<ul class="quick-links-right">
