@@ -1137,7 +1137,16 @@ a.lead-button-main:hover {
 /* homepage alerts block */
 
 .pane-views-alerts-block {
-    background: #f8f8f8;
+    background-image: url("/misc/message-24-error.png");
+    background-position: .75em;
+    background-repeat: no-repeat;
+    background-color: #f2dede;
+    border: 1px solid #ebcccc;
+    padding: .75em .75em .75em 3em;
+    margin-bottom: 2em;
+}
+
+.pane-views-minor-alert-block {
     background-image: url("/misc/message-24-warning.png");
     background-position: .75em;
     background-repeat: no-repeat;
