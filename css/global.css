@@ -228,6 +228,10 @@ a:active {
     color: #000;
 }
 
+a:focus, :focus {
+    outline: 1px solid #000;
+}
+
 a strong {
     color: #981e32;
 }
