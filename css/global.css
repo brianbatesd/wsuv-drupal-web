@@ -552,6 +552,10 @@ div.status p {
     display: none;
 }
 
+#quick-links a:focus, #nav a:focus {
+    outline: 1px solid #fff;
+}
+
 #quick-links-wrapper {
     margin: 0 auto;
 }
@@ -1608,6 +1612,9 @@ h2.block-title {
     display: none;
 } /* hide full sitemap from mobile display */
 
+#sitemap-footer a:focus, #copyright a:focus {
+    outline: 1px solid #fff;
+}
 
 /* COPYRIGHT */
 
