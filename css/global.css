@@ -232,6 +232,11 @@ a:active {
     color: #000;
 }
 
+a:focus {
+    text-decoration: underline;
+    color: #262b2d;
+}
+
 a strong {
     color: #981e32;
 }
@@ -900,7 +905,8 @@ ul.logo-action-links li a:hover.apply-now {
     text-decoration: underline;
 }
 
-.region-sidebar-first ul li a:focus {
+.region-sidebar-first ul li a:focus,
+.region-footer-first ul li a:focus {
     text-decoration: underline;
 }
 
