@@ -186,6 +186,10 @@ img.hide {
     height: 16px;
 } /* reset admin file uploaded icon */
 
+#region-content a:focus {
+    color: #262b2d;
+}
+
 ul,
 ol {
     margin-bottom: 1em;
@@ -226,10 +230,6 @@ a:hover {
 
 a:active {
     color: #000;
-}
-
-a:focus, :focus {
-    outline: 1px solid #000;
 }
 
 a strong {
@@ -552,8 +552,8 @@ div.status p {
     display: none;
 }
 
-#quick-links a:focus, #nav a:focus {
-    outline: 1px solid #fff;
+#quick-links a:focus {
+    text-decoration: underline;
 }
 
 #quick-links-wrapper {
@@ -599,6 +599,10 @@ ul.quick-links-right li a:hover {
     background-color: #262b2d;
     /*padding: .5em 0 3em 0;*/
     padding: 10px 0;
+}
+
+#nav a:focus {
+    text-decoration: underline;
 }
 
 #nav-wrapper {
@@ -771,6 +775,10 @@ ul.nav li a:hover {
     margin-bottom: 2em;
 }
 
+#logo-action a:focus {
+    text-decoration: underline;
+}
+
 #logo-action-wrapper {
     margin: 0 auto;
 }
@@ -779,6 +787,10 @@ img.primary-logo {
     padding: 0 0 0 10px;
     width: 170px;
     float: left;
+}
+
+a:focus img.primary-logo {
+    filter: grayscale(100%);
 }
 
 ul.logo-action-links {
@@ -885,6 +897,10 @@ ul.logo-action-links li a:hover.apply-now {
 .region-sidebar-first ul li a.active:hover,
 .region-footer-first ul li a.active:hover {
     color: #981e32;
+    text-decoration: underline;
+}
+
+.region-sidebar-first ul li a:focus {
     text-decoration: underline;
 }
 
@@ -1612,8 +1628,12 @@ h2.block-title {
     display: none;
 } /* hide full sitemap from mobile display */
 
-#sitemap-footer a:focus, #copyright a:focus {
-    outline: 1px solid #fff;
+#sitemap-footer a:focus {
+    text-decoration: underline;
+}
+
+#copyright a:focus {
+    text-decoration: underline;
 }
 
 /* COPYRIGHT */
@@ -1668,7 +1688,6 @@ h2.block-title {
     list-style-type: none;
 }
 
-
 #copyright ul.contact-info li {
     margin-left: 10px;
     list-style-type: none;
@@ -1681,6 +1700,10 @@ h2.block-title {
 #copyright p.social img {
     width: 32px;
     margin-right: 1em;
+}
+
+#copyright p.social a:focus img {
+    filter: brightness(85%);
 }
 
 #copyright p.social img.social-last {
