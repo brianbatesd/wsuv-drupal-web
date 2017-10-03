@@ -1112,7 +1112,7 @@ p.home-lead-paragraph {
 p.home-lead-button-responsive,
 p.lead-button-responsive {
     text-align: center;
-    margin: 2em 0 2.5em 0;
+    margin: 2em 0 1.5em 0;
 }
 
 a.home-lead-button-main,
@@ -1133,7 +1133,8 @@ a.home-lead-button,
 a.lead-button {
     text-decoration: none;
     padding: .5em 1em .5em 1em;
-    margin: 1.5em .75em 1em 0;
+    margin: 0 .75em 0 0;
+    display: inline-block;
     color: #fff;
     background-color: #981e32;
     border: 2px solid #981e32;
@@ -1167,7 +1168,7 @@ a.home-lead-button-main:focus {
 }
 
 .quick-links-pane p.home-lead-button {
-    margin-top: 1.75em;
+    margin-top: .5em;
 }
 
 .panel-2col-stacked .panel-col-first,
