@@ -95,61 +95,48 @@
   		<ul class="sitemap-footer-column1">
  			<li class="sitemap-title">WSU Vancouver</li>
 			<li><a href="https://www.vancouver.wsu.edu/about-wsu-vancouver">About WSU Vancouver</a></li>
-			<li><a href="http://registrar.wsu.edu/academic-calendar">Academic Calendar</a></li>
-			<li><a href="http://directory.vancouver.wsu.edu">Campus Directory</a></li>
+      <li><a href="https://admin.vancouver.wsu.edu/">Administration</a></li>
 			<li><a href="https://www.vancouver.wsu.edu/campus-map-directions-and-parking-information">Campus Map</a></li>
 			<li><a href="https://hd.vancouver.wsu.edu/child-development">Child Development Program</a></li>
-			<li><a href="https://admin.vancouver.wsu.edu/diversity">Diversity</a></li>
 			<li><a href="https://admin.vancouver.wsu.edu/human-resources/employment">Employment</a></li>
 			<li><a href="https://events.vancouver.wsu.edu">Events Calendar</a></li>
-			<li><a href="https://admin.vancouver.wsu.edu/facilities-operations/events-office">Events Office</a></li>
 			<li><a href="https://admin.vancouver.wsu.edu/parking/parking-services">Parking Services</a></li>
-			<li><a href="https://admin.vancouver.wsu.edu/research">Research</a></li>
     	</ul>
 
   		<ul class="sitemap-footer-column2">
  			<li class="sitemap-title">Future Students</li>
 			<li><a href="https://studentaffairs.vancouver.wsu.edu/admissions">Admissions</a></li>
-			<li><a href="https://studentaffairs.vancouver.wsu.edu/financial-aid">Student Financial Services</a></li>
 			<li><a href="https://studentaffairs.vancouver.wsu.edu/majors-and-programs">Majors and Programs</a></li>
+			<li><a href="https://studentaffairs.vancouver.wsu.edu/financial-aid">Student Financial Services</a></li>
 			<li>&nbsp;</li>
 			<li class="sitemap-title">Current Students</li>
-			<li><a href="http://learn.wsu.edu/">Blackboard</a></li>
-			<li><a href="https://library.vancouver.wsu.edu">Library</a></li>
-      <li><a href="http://office365.wsu.edu/">Student Email</a></li>
+  		<li><a href="http://registrar.wsu.edu/academic-calendar">Academic Calendar</a></li>
+			<li><a href="https://studentaffairs.vancouver.wsu.edu/">Student Affairs and Enrollment</a></li>
 			<li><a href="https://studentaffairs.vancouver.wsu.edu/osi">Student Involvement</a></li>
-			<li><a href="https://studentaffairs.vancouver.wsu.edu/student-involvement/registered-student-organizations-rsos">Student Organizations</a></li>
 			<li><a href="https://studentaffairs.vancouver.wsu.edu/src">Student Resource Center</a></li>
     	</ul>
 
   		<ul class="sitemap-footer-column3">
- 			<li class="sitemap-title">Administration</li>
-			<li><a href="https://admin.vancouver.wsu.edu/academic-affairs">Academic Affairs</a></li>
-			<li><a href="https://admin.vancouver.wsu.edu/capital-planning-and-development">Capital Planning and Development</a></li>
-			<li><a href="https://admin.vancouver.wsu.edu/office-of-the-chancellor">Office of the Chancellor</a></li>
-			<li><a href="https://admin.vancouver.wsu.edu/development-and-alumni-relations">Development and Alumni Relations</a></li>
-			<li><a href="https://admin.vancouver.wsu.edu/finance-and-operations">Finance and Operations</a></li>
-			<li><a href="https://admin.vancouver.wsu.edu/human-resources">Human Resources</a></li>
-			<li><a href="https://admin.vancouver.wsu.edu/information-technology">Information Technology</a></li>
-			<li><a href="https://admin.vancouver.wsu.edu/marketing-and-communications">Marketing and Communications</a></li>
+ 			<li class="sitemap-title">Campus Safety</li>
 			<li><a href="https://admin.vancouver.wsu.edu/public-safety/public-safety">Public Safety</a></li>
 			<li><a href="https://www.vancouver.wsu.edu/safety-plan">Safety Plan and Security Report</a></li>
-			<li><a href="https://studentaffairs.vancouver.wsu.edu/">Student Affairs and Enrollment</a></li>
+      <li>&nbsp;</li>
+      <li class="sitemap-title">Alumni</li>
+      <li><a href="https://admin.vancouver.wsu.edu/development-and-alumni-relations/alumni-relations/alumni-association">Alumni Association</a></li>
+      <li><a href="https://admin.vancouver.wsu.edu/development-and-alumni-relations/alumni-relations/get-involved">Get Involved</a></li>
+      <li><a href="https://admin.vancouver.wsu.edu/giving/make-gift-wsu-vancouver">Make a Gift</a></li>
    		</ul>
 
   		<ul class="sitemap-footer-column4">
- 			<li class="sitemap-title">Academic Units</li>
+ 			<li class="sitemap-title">Academics</li>
 			<li><a href="https://cas.vancouver.wsu.edu">Arts and Sciences</a></li>
       <li><a href="https://business.vancouver.wsu.edu">Business</a></li>
+      <li><a href="https://murrow.vancouver.wsu.edu">Communication</a></li>
 			<li><a href="https://education.vancouver.wsu.edu">Education</a></li>
 			<li><a href="https://ecs.vancouver.wsu.edu">Engineering and Computer Science</a></li>
 			<li><a href="https://hd.vancouver.wsu.edu">Human Development</a></li>
+      <li><a href="https://medicine.vancouver.wsu.edu">Medicine</a></li>
 			<li><a href="https://nursing.vancouver.wsu.edu">Nursing</a></li>
-			<li>&nbsp;</li>
-			<li class="sitemap-title">Alumni</li>
-			<li><a href="https://admin.vancouver.wsu.edu/development-and-alumni-relations/alumni-relations/alumni-association">Alumni Association</a></li>
-			<li><a href="https://admin.vancouver.wsu.edu/development-and-alumni-relations/alumni-relations/get-involved">Get Involved</a></li>
-			<li><a href="https://admin.vancouver.wsu.edu/giving/make-gift-wsu-vancouver">Make a Gift</a></li>
     	</ul>
 
   		</div> <!-- END SITEMAP WRAPPER -->
