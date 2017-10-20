@@ -462,6 +462,11 @@ p.toggle-link:hover {
     color: #262b2d;
 }
 
+#zone-content .views-exposed-form .views-exposed-widget .form-submit {
+    margin-top: 23px;
+    padding: 15px 25px 15px 25px;
+}
+
 input[type="radio"] {
     color: #ccc;
 }
