@@ -282,16 +282,6 @@ td {
     border-bottom: 1px solid #e7e9ea;
 }
 
-td.gsc-result-info-container,
-td.gsc-table-cell-snippet-close,
-.gsc-resultsHeader td.gsc-twiddleRegionCell,
-.gsc-resultsHeader td.gsc-configLabelCell {
-  background-color: #fff;
-  padding: 0;
-  margin: 0;
-  border: 0;
-} /* Google CSE remove table backgrounds */
-
 tr.even td {
     background-color: #fff;
 }
@@ -345,75 +335,44 @@ span.mailto {
     display: none;
 } /* bug: extlinks module breaks mobile layout when it falls on the viewport edge */
 
-/* Pure CSS :checked toggle class - credit: http://codepen.io/cristina-silva/pen/pyXQrj */
+/* GOOGLE CSE RESULTS */
 
-p.toggle-link {
-    background-color: #f8f8f8;
-    color: #444;
-    margin: 0;
-    padding: 1.3em;
-    border: none;
-    text-align: left;
-    outline: none;
-    border-bottom: #e7e9ea 1px solid;
+td.gsc-result-info-container,
+td.gsc-table-cell-snippet-close,
+.gsc-resultsHeader td.gsc-twiddleRegionCell,
+.gsc-resultsHeader td.gsc-configLabelCell {
+  background-color: #fff;
+  padding: 0;
+  margin: 0;
+  border: 0;
+} /* Google CSE remove table backgrounds */
+
+#___gcse_0 > div {
+  padding: 0;
+  margin: 0;
 }
 
-p.toggle-link:hover {
-    background-color: #e7e9ea;
+div.gsc-resultsbox-visible {
+  padding: 0;
 }
 
-.toggle {
-    margin: 0 auto;
+div.gsc-result-info {
+  padding-left: 0;
 }
 
-.toggle-label {
-    background: #f8f8f8;
-    font-weight: normal;
-    padding: 1.3em;
-    cursor: pointer;
-    display: block;
-    margin: 0 auto;
-    border-bottom: 1px solid #e7e9ea;
+div.gsc-webResult.gsc-result {
+  padding-left: 0;
 }
 
-.toggle-label:hover {
-    background-color: #e7e9ea;
+#___gcse_0 > div > div > div > div.gsc-wrapper > div.gsc-resultsbox-visible > div > div > div.gsc-expansionArea > div.gsc-cursor-box.gs-bidi-start-align {
+  padding: 0;
 }
 
-.toggle-label:after {
-    color: #262b2d;
-    content: "+";
-    float: right;
-    font-weight: bold;
-}
-
-.toggle-title {
-    color: #981e32;
-    text-decoration: underline;
-}
-
-.toggle-content {
-    padding: 1em;
-}
-
-.toggle-content ul {
-    margin-bottom: 0;
-}
-
-.toggle-input {
-    display: none;
-}
-
-.toggle-input:not(checked) ~ .toggle-content {
-    display: none;
-}
-
-.toggle-input:checked ~ .toggle-content {
-    display: block;
-}
-
-.toggle-input:checked ~ .toggle-label:after {
-    content: "-";
+#___gcse_0 > div > div > div > div.gsc-wrapper > div.gsc-resultsbox-visible > div > div > div.gsc-expansionArea > div.gsc-cursor-box.gs-bidi-start-align > div > div.gsc-cursor-page.gsc-cursor-current-page {
+  text-shadow: 0 0 0;
+  color: #fff;
+  background: #262b2d;
+  padding: 3px 7px 3px 7px;
 }
 
 
