@@ -25,6 +25,7 @@ img.left-small {
 
 #nav li {
     display: inline-block;
+    margin-left: 0;
 }
 
 #quick-links {
@@ -75,12 +76,22 @@ ul.nav li a:hover {
     border-top: none;
 }
 
+#logo-action a:focus {
+    border: 0;
+    text-decoration: underline;
+    background: #262b2d;
+    color: #f8f8f8;
+}
+
 img.primary-logo {
-    width: 216px;
+    display: inline-block;
     float: left;
+    width: 240px;
+    margin-top: -.5125em;
 }
 
 ul.logo-action-links {
+    display: inline-block;
     float: right;
     clear: none;
 }
@@ -189,7 +200,7 @@ h1.home-image-caption {
 #sitemap-footer ul li {
     list-style-type: none;
     padding-top: .6em;
-    line-height: 1.4em;
+    line-height: 1.5em;
 }
 
 #sitemap-footer ul li.sitemap-title {
@@ -204,10 +215,10 @@ h1.home-image-caption {
     margin: 0 auto;
 }
 
-ul.sitemap-footer-column1,
-ul.sitemap-footer-column2,
-ul.sitemap-footer-column3,
-ul.sitemap-footer-column4 {
+ul.sitemap-footer-column-1,
+ul.sitemap-footer-column-2,
+ul.sitemap-footer-column-3,
+ul.sitemap-footer-column-4 {
     float: left;
     clear: none;
     width: 23.5%;
@@ -217,5 +228,5 @@ ul.sitemap-footer-column4 {
 
 #copyright {
     height: 12em;
-    line-height: 1.4em;
+    line-height: 1.5em;
 }

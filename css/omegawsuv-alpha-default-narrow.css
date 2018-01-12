@@ -118,6 +118,13 @@ ul.quick-links-right {
     padding-top: 1.5em;
 }
 
+#logo-action a:focus {
+    border: 0;
+    text-decoration: underline;
+    background: #262b2d;
+    color: #f8f8f8;
+}
+
 #logo-action-wrapper {
     max-width: 741px;
     margin: 0 auto;
@@ -125,12 +132,19 @@ ul.quick-links-right {
 }
 
 img.primary-logo {
-    width: 216px;
+    display: inline-block;
     float: left;
 }
 
+img.horizontal-logo {
+    display: none;
+}
+
 ul.logo-action-links {
+    display: inline-block;
+    margin: 0;
     padding-right: 20px;
+    margin-top: 1.125em;
 }
 
 

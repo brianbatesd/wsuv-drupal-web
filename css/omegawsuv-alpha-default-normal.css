@@ -14,190 +14,204 @@
 img.right,
 img.left,
 img.border {
-  width: 45%;
+    width: 45%;
 }
 
 img.right-small,
 img.left-small {
-  width: 25%;
+    width: 25%;
 }
 
 a.sf-depth-1 {
-  width: 210px;
+    width: 210px;
 }
 
 iframe.responsive {
-  width: 75%;
+    width: 75%;
 }
 
 .panel-2col-stacked .panel-col-first,
 .panel-2col-bricks .panel-col-first {
-  width: 50%;
+    width: 50%;
 }
 
 .panel-2col-stacked .panel-col-last,
 .panel-2col-bricks .panel-col-last {
-  width: 49.9%;
+    width: 49.9%;
 }
 
 
 /* HEADER */
 
 #quick-links {
-  font-size: .9em;
-  height: 1.8em;
-  padding-top: .25em;
+    font-size: .9em;
+    height: 1.8em;
+    padding-top: .25em;
 }
 
 #quick-links-wrapper {
-  max-width: 980px;
-  margin: 0 auto;
-  padding-left: 20px\9; /* fix for IE8 spacing */
+    max-width: 980px;
+    margin: 0 auto;
+    padding-left: 20px\9; /* fix for IE8 spacing */
 }
 
 ul.quick-links-right {
-  padding-right: 15px;
+    padding-right: 15px;
 }
 
 #nav {
-  height: 0;
-  padding: .5em 0 2.4em 0;
+    height: 0;
+    padding: .5em 0 2.4em 0;
 }
 
 #nav-wrapper {
-  max-width: 980px;
-  margin: 0 auto;
-  padding-left: 40px;
-
+    max-width: 980px;
+    margin: 0 auto;
+    padding-left: 40px;
 }
 
 
 /* SEARCH */
 
 .search {
-  display: block;
-  padding: .1em 30px 0 0;
-  margin-top: -.075em;
+    display: block;
+    padding: .1em 30px 0 0;
+    margin-top: -.075em;
 }
 
 .search input {
-  border: 1px solid #262b2d;
-  height: 28px;
+    border: 1px solid #262b2d;
+    height: 28px;
 }
 
 .search input[type=text] {
-  color: #262b2d;
+    color: #262b2d;
 }
 
 .search input[type=submit] {
-  background: url("https://www.vancouver.wsu.edu/sites/www.vancouver.wsu.edu/themes/omegawsuv/search.png") no-repeat center center;
-  width: 27px;
-  height: 27px;
-  background-size: 27px;
-  border: none;
-  color: transparent;
-  border-radius: 0;
+    background: url("https://www.vancouver.wsu.edu/sites/www.vancouver.wsu.edu/themes/omegawsuv/search.png") no-repeat center center;
+    width: 27px;
+    height: 27px;
+    background-size: 27px;
+    border: none;
+    color: transparent;
+    border-radius: 0;
 }
 
 .search-form {
-  display: inline;
+    display: inline;
 }
 
 
 /* LOGO AND ACTION LINKS */
 
 #logo-action {
-  height: 4.5em;
-  font-size: 1.25em;
-  padding-top: 1.25em;
+    height: 4.5em;
+    font-size: 1.25em;
+    padding-top: 1.25em;
+}
+
+#logo-action a:focus {
+    border: 0;  
+    text-decoration: underline;
+    background: #262b2d;
+    color: #f8f8f8;
 }
 
 #logo-action-wrapper {
-  max-width: 980px;
-  margin: 0 auto;
-  padding-left: 20px\9; /* fix for IE8 spacing */
+    max-width: 980px;
+    margin: 0 auto;
+    padding-left: 20px\9; /* fix for IE8 spacing */
 }
 
 img.primary-logo {
-  width: 210px;
-  float: left;
+    display: inline-block;
+    float: left;
+    margin-top: -.3275em;
+}
+
+img.horizontal-logo {
+    display: none;
 }
 
 ul.logo-action-links {
-  padding-right: 20px\9; /* fix for IE8 spacing */
+    display: inline-block;
+    margin: 0;
+    padding-top: .75em;
+    padding-right: 20px\9; /* fix for IE8 spacing */
 }
 
 
 /* HOMEPAGE */
 
 .view-home-image-slider img {
-  max-width: 100%;
-  height: auto;
+    max-width: 100%;
+    height: auto;
 }
 
 .flexslider {
-  margin: 0 0 5em;
+    margin: 0 0 5em;
 }
 
 ol.flex-control-nav {
-  bottom: -40px;
+    bottom: -40px;
 }
 
 .events-item-list ul, .pr-item-list ul {
-  list-style-type: none;
-  margin-top: -.5em;
+    list-style-type: none;
+    margin-top: -.5em;
 }
 
 
 h1.home-image-caption {
-  font-size: 2em;
+    font-size: 2em;
 }
 
 
 /* LANDING PAGES */
 
 img.right-icon {
-  float: right;
-  margin: 0 0 15px 15px;
-  width: 15%;
+    float: right;
+    margin: 0 0 15px 15px;
+    width: 15%;
 }
 
 .person-entry .views-field-field-photo {
-  float: left;
-  margin-right: .8em;
+    float: left;
+    margin-right: .8em;
 }
 
 
 /* FOOTER */
 
 #sitemap-wrapper {
-  max-width: 980px;
-  padding-left: 20px\9; /* fix for IE8 spacing */
+    max-width: 980px;
+    padding-left: 20px\9; /* fix for IE8 spacing */
 }
 
 #sitemap-footer {
-  height: 25em;
+    height: 25em;
 }
 
 #sitemap-footer a:hover {
-  padding: 3px 6px;
-  margin: -3px -6px;
-  background: #fff;
-  color: #262b2d;
-  text-decoration: none;
+    padding: 3px 6px;
+    margin: -3px -6px;
+    background: #fff;
+    color: #262b2d;
+    text-decoration: none;
 }
 
 #copyright {
-  height: 10em;
+    height: 10em;
 }
 
 #copyright-wrapper {
-  max-width: 980px;
-  padding-left: 20px;
+    max-width: 980px;
+    padding-left: 20px;
 }
 
 #copyright ul.contact-info li.list-title {
-  display: none;
+    display: none;
 }
 
 #copyright #contact-wrapper {

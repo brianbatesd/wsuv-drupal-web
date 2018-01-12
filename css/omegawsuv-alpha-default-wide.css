@@ -64,11 +64,20 @@ a.sf-depth-1 {
 ul.nav li {
   padding-right: 1.6em;
   font-size: 1.2em;
+  margin-top: 0;
+  margin-left: 0;
 }
 
 #logo-action {
-  height: 4.5em;
+  height: 5em;
   font-size: 1.25em;
+}
+
+#logo-action a:focus {
+    border: 0;
+    text-decoration: underline;
+    background: #262b2d;
+    color: #f8f8f8;
 }
 
 #logo-action-wrapper {
@@ -77,17 +86,20 @@ ul.nav li {
 }
 
 img.primary-logo {
-  width: 216px;
+  display: inline-block;
   float: left;
+  width: 240px;
+  margin-top: -.05em;
+}
+
+img.horizontal-logo {
+    display: none;
 }
 
 ul.logo-action-links {
+  display: inline-block;
   margin: 0;
-  padding-top: .75em;
-}
-
-ul.nav li {
-  margin-top: 0;
+  padding-top: 1.175em;
 }
 
 
@@ -169,7 +181,7 @@ img.right-icon {
   background: #fff;
   color: #262b2d;
   text-decoration: none;
-} /* negative values recenter the hover box */
+}
 
 #copyright {
   height: 10em;

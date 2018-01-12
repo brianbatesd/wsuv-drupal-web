@@ -12,13 +12,12 @@
   <?php print $styles; ?>
   <?php print $scripts; ?>
   <!--[if lt IE 9]><script src="https://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
-  <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700" rel="stylesheet" type="text/css">
-  <link href="https://fonts.googleapis.com/css?family=Oswald" rel="stylesheet" type="text/css">
+  <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Oswald" rel="stylesheet">
   <link rel="apple-touch-icon" sizes="76x76" href="https://www.vancouver.wsu.edu/sites/www.vancouver.wsu.edu/themes/omegawsuv/apple-touch-icon-76x76.png">
   <link rel="apple-touch-icon" sizes="120x120" href="https://www.vancouver.wsu.edu/sites/www.vancouver.wsu.edu/themes/omegawsuv/apple-touch-icon-120x120.png">
   <link rel="apple-touch-icon" sizes="152x152" href="https://www.vancouver.wsu.edu/sites/www.vancouver.wsu.edu/themes/omegawsuv/apple-touch-icon-152x152.png">
   <meta name="apple-mobile-web-app-title" content="WSUV">
-  <!-- <meta name="format-detection" content="telephone=no"> -->
   <link rel="icon" type="image/png" href="https://www.vancouver.wsu.edu/sites/www.vancouver.wsu.edu/themes/omegawsuv/favicon-16x16.png" sizes="16x16">
   <link rel="icon" type="image/png" href="https://www.vancouver.wsu.edu/sites/www.vancouver.wsu.edu/themes/omegawsuv/favicon-32x32.png" sizes="32x32">
 </head>
@@ -75,7 +74,7 @@
 	<div id="logo-action"> <!-- BEGIN LOGO AND ACTION LINKS -->
 		<div id="logo-action-wrapper"> <!-- BEGIN LOGO AND ACTION LINKS WRAPPER -->
 
-		<a href="https://www.vancouver.wsu.edu" title="Home"><img class="primary-logo" src="https://www.vancouver.wsu.edu/sites/www.vancouver.wsu.edu/themes/omegawsuv/wsuvancouver-primarylogo.png" alt="WSU Vancouver logo"></a>
+		<a href="https://www.vancouver.wsu.edu" title="Home"><img class="primary-logo" src="https://www.vancouver.wsu.edu/sites/www.vancouver.wsu.edu/themes/omegawsuv/images/wsu-vancouver-primary-logo-rgb.svg" alt="WSU Vancouver logo."><img class="horizontal-logo" src="https://www.vancouver.wsu.edu/sites/www.vancouver.wsu.edu/themes/omegawsuv/images/wsu-vancouver-horizontal-logo-rgb.svg" alt="WSU Vancouver logo."></a>
 
 		<ul class="logo-action-links">
 			<li><a href="https://studentaffairs.vancouver.wsu.edu/admissions/visit-campus">Campus tour</a></li>
@@ -92,7 +91,7 @@
   	<div id="sitemap-footer"> <!-- BEGIN SITEMAP FOOTER -->
   		<div id="sitemap-wrapper"> <!-- BEGIN SITEMAP WRAPPER -->
 
-  		<ul class="sitemap-footer-column1">
+  		<ul class="sitemap-footer-column-1">
  			<li class="sitemap-title">WSU Vancouver</li>
 			<li><a href="https://www.vancouver.wsu.edu/about-wsu-vancouver">About WSU Vancouver</a></li>
       <li><a href="https://admin.vancouver.wsu.edu/">Administration</a></li>
@@ -103,7 +102,7 @@
 			<li><a href="https://admin.vancouver.wsu.edu/parking/parking-services">Parking Services</a></li>
     	</ul>
 
-  		<ul class="sitemap-footer-column2">
+  		<ul class="sitemap-footer-column-2">
  			<li class="sitemap-title">Future Students</li>
 			<li><a href="https://studentaffairs.vancouver.wsu.edu/admissions">Admissions</a></li>
 			<li><a href="https://studentaffairs.vancouver.wsu.edu/majors-and-programs">Majors and Programs</a></li>
@@ -116,7 +115,7 @@
 			<li><a href="https://studentaffairs.vancouver.wsu.edu/src">Student Resource Center</a></li>
     	</ul>
 
-  		<ul class="sitemap-footer-column3">
+  		<ul class="sitemap-footer-column-3">
  			<li class="sitemap-title">Campus Safety</li>
 			<li><a href="https://admin.vancouver.wsu.edu/public-safety/public-safety">Public Safety</a></li>
 			<li><a href="https://www.vancouver.wsu.edu/safety-plan">Safety Plan and Security Report</a></li>
@@ -127,7 +126,7 @@
       <li><a href="https://admin.vancouver.wsu.edu/giving/make-gift-wsu-vancouver">Make a Gift</a></li>
    		</ul>
 
-  		<ul class="sitemap-footer-column4">
+  		<ul class="sitemap-footer-column-4">
  			<li class="sitemap-title">Academics</li>
 			<li><a href="https://cas.vancouver.wsu.edu">Arts and Sciences</a></li>
       <li><a href="https://business.vancouver.wsu.edu">Business</a></li>
@@ -172,7 +171,7 @@
         <li><a href="tel:+13605469788">360-546-9788</a></li>
       </ul>
 
-  		<p class="social"><a href="https://www.facebook.com/wsuvancouver"><img src="https://www.vancouver.wsu.edu/sites/www.vancouver.wsu.edu/themes/omegawsuv/social-facebook.png" alt="Facebook"></a> <a href="https://www.twitter.com/wsuvancouver"><img src="https://www.vancouver.wsu.edu/sites/www.vancouver.wsu.edu/themes/omegawsuv/social-twitter.png" alt="Twitter"></a> <a href="https://www.instagram.com/wsuvancouver"><img src="https://www.vancouver.wsu.edu/sites/www.vancouver.wsu.edu/themes/omegawsuv/social-instagram.png" alt="Instagram"></a> <a href="https://www.flickr.com/wsuvancouver"><img src="https://www.vancouver.wsu.edu/sites/www.vancouver.wsu.edu/themes/omegawsuv/social-flickr.png" alt="Flickr"></a> <a href="https://www.snapchat.com/add/wsuvancouver"><img src="https://www.vancouver.wsu.edu/sites/www.vancouver.wsu.edu/themes/omegawsuv/social-snapchat.png" alt="Snapchat" class="social-last"></a></p>
+  		<p class="social"><a href="https://www.facebook.com/wsuvancouver"><img src="https://www.vancouver.wsu.edu/sites/www.vancouver.wsu.edu/themes/omegawsuv/social-facebook.png" alt="Facebook."></a> <a href="https://www.twitter.com/wsuvancouver"><img src="https://www.vancouver.wsu.edu/sites/www.vancouver.wsu.edu/themes/omegawsuv/social-twitter.png" alt="Twitter."></a> <a href="https://www.instagram.com/wsuvancouver"><img src="https://www.vancouver.wsu.edu/sites/www.vancouver.wsu.edu/themes/omegawsuv/social-instagram.png" alt="Instagram."></a> <a href="https://www.flickr.com/wsuvancouver"><img src="https://www.vancouver.wsu.edu/sites/www.vancouver.wsu.edu/themes/omegawsuv/social-flickr.png" alt="Flickr."></a> <a href="https://www.youtube.com/wsuvancouver"><img src="https://www.vancouver.wsu.edu/sites/www.vancouver.wsu.edu/themes/omegawsuv/social-youtube.png" alt="YouTube." class="social-last"></a></p>
 
   		</div> <!-- END COPYRIGHT WRAPPER -->
   	</div> <!-- END COPYRIGHT -->
