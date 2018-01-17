@@ -235,13 +235,16 @@ a:hover strong {
 }
 
 table {
-    display: block;
-    overflow-x: auto;
     border-collapse: collapse;
     border-spacing: 0;
     border: none;
     width: 100%;
     margin: 1.5em 0 2em 0;
+}
+
+#zone-content table {
+    display: block;
+    overflow-x: auto;
 }
 
 th {
