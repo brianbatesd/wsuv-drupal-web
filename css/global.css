@@ -173,7 +173,8 @@ img.hide {
     height: 16px;
 } /* reset admin file uploaded icon */
 
-#region-content a:focus {
+#region-content a:focus,
+#region-content a:focus strong {
     background-color: #262b2d;
     color: #fff;
 }
@@ -415,6 +416,15 @@ div.gsc-webResult.gsc-result {
     color: #981e32;
     border: 2px solid #981e32;
     border-radius: 4px;
+}
+
+#zone-content button:focus,
+#zone-content input[type="button"]:focus,
+#zone-content input[type="submit"]:focus,
+#zone-content input[type="reset"]:focus {
+    background-color: #fff;
+    color: #981e32;
+    border-color: #981e32;
 }
 
 #zone-content .views-exposed-form .views-exposed-widget .form-submit {
@@ -816,7 +826,6 @@ ul.logo-action-links li a:hover.apply-now {
     /* logged in users */
 }
 
-
 /* NAVIGATION BLOCKS */
 
 .region-sidebar-first,
@@ -1148,13 +1157,6 @@ a.lead-button:hover,
 #region-content a.lead-button:focus {
     color: #981e32;
     border-color: #981e32;
-    background-color: #fff;
-}
-
-a.lead-button-main:hover,
-a.lead-button-main:focus {
-    color: #262b2d;
-    border-color: #fff;
     background-color: #fff;
 }
 
