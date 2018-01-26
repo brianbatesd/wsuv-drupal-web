@@ -24,6 +24,8 @@
 <body<?php print $attributes;?>>
   <div id="skip-link">
     <a href="#main-content" class="element-invisible element-focusable"><?php print t('Skip to main content'); ?></a>
+    <a href="#region-sidebar-first" class="element-invisible element-focusable"><?php print t('Skip to site navigation'); ?></a>
+    <a href="#sitemap-footer" class="element-invisible element-focusable"><?php print t('Skip to footer sitemap'); ?></a>
   </div>
 
   <?php print $page_top; ?>
