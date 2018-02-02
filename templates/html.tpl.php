@@ -173,7 +173,13 @@
         <li><a href="tel:+13605469788">360-546-9788</a></li>
       </ul>
 
-  		<p class="social"><a href="https://www.facebook.com/wsuvancouver"><img src="https://www.vancouver.wsu.edu/sites/www.vancouver.wsu.edu/themes/omegawsuv/social-facebook.png" alt="Facebook."></a> <a href="https://www.twitter.com/wsuvancouver"><img src="https://www.vancouver.wsu.edu/sites/www.vancouver.wsu.edu/themes/omegawsuv/social-twitter.png" alt="Twitter."></a> <a href="https://www.instagram.com/wsuvancouver"><img src="https://www.vancouver.wsu.edu/sites/www.vancouver.wsu.edu/themes/omegawsuv/social-instagram.png" alt="Instagram."></a> <a href="https://www.flickr.com/wsuvancouver"><img src="https://www.vancouver.wsu.edu/sites/www.vancouver.wsu.edu/themes/omegawsuv/social-flickr.png" alt="Flickr."></a> <a href="https://www.youtube.com/wsuvancouver"><img src="https://www.vancouver.wsu.edu/sites/www.vancouver.wsu.edu/themes/omegawsuv/social-youtube.png" alt="YouTube." class="social-last"></a></p>
+  		<p class="social">
+        <a href="https://www.facebook.com/wsuvancouver"><img src="https://www.vancouver.wsu.edu/sites/www.vancouver.wsu.edu/themes/omegawsuv/social-facebook.png" alt="Facebook."></a>
+        <a href="https://www.instagram.com/wsuvancouver"><img src="https://www.vancouver.wsu.edu/sites/www.vancouver.wsu.edu/themes/omegawsuv/social-instagram.png" alt="Instagram."></a>
+        <a href="https://www.twitter.com/wsuvancouver"><img src="https://www.vancouver.wsu.edu/sites/www.vancouver.wsu.edu/themes/omegawsuv/social-twitter.png" alt="Twitter."></a>
+        <a href="https://www.snapchat.com/add/wsuvancouver"><img src="https://www.vancouver.wsu.edu/sites/www.vancouver.wsu.edu/themes/omegawsuv/social-snapchat.png" alt="Snapchat."></a>
+        <a href="https://www.youtube.com/wsuvancouver"><img src="https://www.vancouver.wsu.edu/sites/www.vancouver.wsu.edu/themes/omegawsuv/social-youtube.png" alt="YouTube." class="social-last"></a>
+      </p>
 
   		</div> <!-- END COPYRIGHT WRAPPER -->
   	</div> <!-- END COPYRIGHT -->
