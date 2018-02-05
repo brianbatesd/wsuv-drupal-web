@@ -90,6 +90,7 @@
   <?php print $page; ?>
   <?php print $page_bottom; ?>
 
+  <footer role="contentinfo">
   	<div id="sitemap-footer"> <!-- BEGIN SITEMAP FOOTER -->
   		<div id="sitemap-wrapper"> <!-- BEGIN SITEMAP WRAPPER -->
 
@@ -183,6 +184,7 @@
 
   		</div> <!-- END COPYRIGHT WRAPPER -->
   	</div> <!-- END COPYRIGHT -->
+  </footer>
 
 <script src="https://www.vancouver.wsu.edu/sites/www.vancouver.wsu.edu/themes/omegawsuv/js/responsive-nav.min.js"></script>
 <script src="https://www.vancouver.wsu.edu/sites/www.vancouver.wsu.edu/themes/omegawsuv/js/search-enhancement.js"></script>

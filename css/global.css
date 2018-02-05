@@ -34,7 +34,8 @@ h1,
 h2,
 h3,
 h4,
-h5 {
+h5,
+h6 {
     font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif;
     font-weight: bold;
     line-height: 1.3em;
@@ -179,29 +180,38 @@ img.hide {
     color: #fff;
 }
 
-ul,
-ol {
-    margin-bottom: 1em;
-}
-
-.region-content-inner li,
-.region-sidebar-second-inner li {
-    padding-bottom: .3em;
-}
-
-ul li ul,
-ul li ol,
-ol li ul {
+pre {
+    font-family: monospace;
     margin-bottom: 0;
 }
 
-ul li ol,
-ol li ul {
-    padding-top: .4em;
+ul li,
+ol li {
+    padding-bottom: .3em;
+}
+
+ul ul,
+ol ol {
+    padding-top: 0;
+}
+
+ul ul ul,
+ol ol ol {
+    padding-bottom: 0;
+}
+
+ul li ul li,
+ol li ol li {
+    padding-top: .3em;
+    padding-bottom: 0;
 }
 
 ul li ul li {
     list-style-type: circle;
+}
+
+ul li ul li ul li {
+    list-style-type: square;
 }
 
 a:link {
@@ -241,6 +251,11 @@ table {
     border: none;
     width: 100%;
     margin: 1.5em 0 2em 0;
+}
+
+caption {
+    text-align: left;
+    padding: .75em 2em .75em 1em;
 }
 
 #zone-content table {
@@ -315,6 +330,10 @@ hr.landing {
     margin: 2em 0 2em 0;
 }
 
+small {
+    font-family: monospace;
+}
+
 iframe.responsive {
     width: 100%;
 } /* override for mobile layout */
@@ -373,6 +392,7 @@ div.gsc-webResult.gsc-result {
 /* FORMS */
 
 #zone-content select,
+#zone-content input[type="datalist"],
 #zone-content input[type="date"],
 #zone-content input[type="datetime"],
 #zone-content input[type="datetime-local"],
@@ -380,13 +400,21 @@ div.gsc-webResult.gsc-result {
 #zone-content input[type="month"],
 #zone-content input[type="number"],
 #zone-content input[type="password"],
+#zone-content input[type="search"],
+#zone-content input[type="tel"],
 #zone-content input[type="text"],
-#zone-content input[type="time"] {
+#zone-content input[type="time"],
+#zone-content input[type="url"]
+ {
     border-color: #ccc;
     height: 3em;
     font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif;
     color: #606e73;
     font-size: 1em;
+}
+
+#zone-content input[type="datalist"] {
+    border: 1px solid #ccc;
 }
 
 #zone-content button,
@@ -449,7 +477,16 @@ select {
 }
 
 fieldset {
-    border-top: 1px dashed #ccc;
+
+}
+
+legend {
+    font-weight: bold;
+    padding-bottom: 1em;
+}
+
+label {
+    margin-bottom: -1em;
 }
 
 .fieldset-legend {
@@ -458,7 +495,6 @@ fieldset {
     color: #363d40;
     font-size: 1.5em;
     line-height: 1.5em;
-    padding-right: .25em;
 }
 
 .description {
