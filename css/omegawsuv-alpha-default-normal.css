@@ -112,7 +112,7 @@ ul.quick-links-right {
 }
 
 #logo-action a:focus {
-    border: 0;  
+    border: 0;
     text-decoration: underline;
     background: #262b2d;
     color: #f8f8f8;
@@ -190,7 +190,7 @@ img.right-icon {
 }
 
 #sitemap-footer {
-    height: 25em;
+    height: 27em;
 }
 
 #sitemap-footer a:hover {
@@ -202,7 +202,7 @@ img.right-icon {
 }
 
 #copyright {
-    height: 10em;
+    height: 11em;
 }
 
 #copyright-wrapper {

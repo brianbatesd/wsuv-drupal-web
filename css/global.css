@@ -404,8 +404,7 @@ div.gsc-webResult.gsc-result {
 #zone-content input[type="tel"],
 #zone-content input[type="text"],
 #zone-content input[type="time"],
-#zone-content input[type="url"]
- {
+#zone-content input[type="url"] {
     border-color: #ccc;
     height: 3em;
     font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif;
@@ -476,17 +475,9 @@ select {
     max-width: 100%;
 }
 
-fieldset {
-
-}
-
 legend {
     font-weight: bold;
     padding-bottom: 1em;
-}
-
-label {
-    margin-bottom: -1em;
 }
 
 .fieldset-legend {
@@ -1703,7 +1694,7 @@ h2.block-title {
 #copyright {
     background: #981e32;
     clear: both;
-    height: 41em;
+    height: 46em;
     padding: .5em 0 0 0;
     font-size: .9em;
     line-height: 1.7em;
