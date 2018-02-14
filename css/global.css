@@ -1134,6 +1134,39 @@ h1.home-lead-title-main {
     margin-bottom: 2em;
 }
 
+.nwcg-cover-story {
+    background: url("https://www.vancouver.wsu.edu/sites/www.vancouver.wsu.edu/files/images/nwcg-cover-butterflies.jpg") repeat center;
+    background-color: #262b2d;
+    overflow: hidden;
+    margin-bottom: 2em;
+    padding: 2em;
+}
+
+.nwcg-cover-story h2,
+.nwcg-cover-story p {
+    color: #fff;
+    drop-shadow: 3px;
+}
+
+.nwcg-email-subscribe form {
+    text-align: center;
+}
+
+.nwcg-email-subscribe form label {
+    font-size: 1.5em;
+    margin-top: 1em;
+    margin-bottom: -.5em;
+}
+
+.nwcg-email-subscribe form input {
+    margin-right: .5em;
+    width: 20em;
+}
+
+.nwcg-email-subscribe form button {
+    width: 9em;
+}
+
 p.home-lead-paragraph {
     text-align: center;
     margin: 2em 0;
