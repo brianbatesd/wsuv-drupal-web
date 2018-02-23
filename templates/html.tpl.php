@@ -76,7 +76,7 @@
 	<div id="logo-action"> <!-- BEGIN LOGO AND ACTION LINKS -->
 		<div id="logo-action-wrapper"> <!-- BEGIN LOGO AND ACTION LINKS WRAPPER -->
 
-		<a href="https://www.vancouver.wsu.edu" title="Home"><img class="primary-logo" src="https://www.vancouver.wsu.edu/sites/www.vancouver.wsu.edu/themes/omegawsuv/images/wsu-vancouver-primary-logo-rgb.svg" alt="WSU Vancouver logo."><img class="horizontal-logo" src="https://www.vancouver.wsu.edu/sites/www.vancouver.wsu.edu/themes/omegawsuv/images/wsu-vancouver-horizontal-logo-rgb.svg" alt="WSU Vancouver logo."></a>
+		<a href="https://www.vancouver.wsu.edu" title="Home"><img class="primary-logo" src="https://www.vancouver.wsu.edu/sites/www.vancouver.wsu.edu/themes/omegawsuv/images/wsu-vancouver-primary-logo-rgb.svg" alt="Home page."><img class="horizontal-logo" src="https://www.vancouver.wsu.edu/sites/www.vancouver.wsu.edu/themes/omegawsuv/images/wsu-vancouver-horizontal-logo-rgb.svg" alt="Home page."></a>
 
 		<ul class="logo-action-links">
 			<li><a href="https://studentaffairs.vancouver.wsu.edu/admissions/visit-campus">Campus tour</a></li>
@@ -194,4 +194,5 @@
 </script>
 
 </body>
+
 </html>
