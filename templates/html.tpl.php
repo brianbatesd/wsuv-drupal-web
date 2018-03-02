@@ -30,7 +30,7 @@
 
   <?php print $page_top; ?>
 
-    <div id="quick-links"> <!-- BEGIN QUICK LINKS -->
+    <div id="quick-links" role="navigation" aria-label="Quick links"> <!-- BEGIN QUICK LINKS -->
     	<div id="quick-links-wrapper"> <!-- BEGIN QUICK LINKS WRAPPER -->
 
     	<ul class="quick-links-left">
@@ -52,7 +52,7 @@
     	</div> <!-- END QUICK LINKS WRAPPER -->
     </div>  <!-- END QUICK LINKS -->
 
-    <div id="nav"> <!-- BEGIN AUDIENCE LINKS -->
+    <div id="nav" role="navigation" aria-label="Audience topics"> <!-- BEGIN AUDIENCE LINKS -->
     	<div id="nav-wrapper">
 
     	<ul class="nav">
@@ -66,7 +66,7 @@
 
     	<div id="google-cse"> <!-- BEGIN GOOGLE CSE -->
 
-			<div class="search"><?php $block = module_invoke('search', 'block_view', 'search'); print render($block); ?></div>
+			<div class="search" role="search"><?php $block = module_invoke('search', 'block_view', 'search'); print render($block); ?></div>
 
 		</div> <!-- END GOOGLE CSE -->
 
@@ -87,10 +87,12 @@
 		</div> <!-- END LOGO AND ACTION LINKS WRAPPER -->
 	</div> <!-- END LOGO AND ACTION LINKS -->
 
+  <div role="main" aria-label="Page content">
   <?php print $page; ?>
   <?php print $page_bottom; ?>
+  </div>
 
-  <footer role="contentinfo">
+  <footer role="contentinfo" aria-label="Footer sitemap">
   	<div id="sitemap-footer"> <!-- BEGIN SITEMAP FOOTER -->
   		<div id="sitemap-wrapper"> <!-- BEGIN SITEMAP WRAPPER -->
 
