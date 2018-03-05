@@ -87,10 +87,8 @@
 		</div> <!-- END LOGO AND ACTION LINKS WRAPPER -->
 	</div> <!-- END LOGO AND ACTION LINKS -->
 
-  <div role="main" aria-label="Page content">
-  <?php print $page; ?>
+  <div role="main" aria-label="Content"><?php print $page; ?></div>
   <?php print $page_bottom; ?>
-  </div>
 
   <footer role="contentinfo" aria-label="Footer sitemap">
   	<div id="sitemap-footer"> <!-- BEGIN SITEMAP FOOTER -->
