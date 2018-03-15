@@ -189,9 +189,28 @@
 <script src="https://www.vancouver.wsu.edu/sites/www.vancouver.wsu.edu/themes/omegawsuv/js/responsive-nav.min.js"></script>
 <script src="https://www.vancouver.wsu.edu/sites/www.vancouver.wsu.edu/themes/omegawsuv/js/search-enhancement.js"></script>
 
-<script>
-  var navigation = responsiveNav("#nav");
+<script>var navigation = responsiveNav("#nav");</script>
+
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 970688392;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
 </script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/970688392/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+
+<script type="text/javascript"> (function(a,e,c,f,g,h,b,d){var k={ak:"970688392",cl:"xAeiCIrAh34QiI_uzgM",autoreplace:"360-546-9779"};a[c]=a[c]||function(){(a[c].q=a[c].q||[]).push(arguments)};a[g]||(a[g]=k.ak);b=e.createElement(h);b.async=1;b.src="//www.gstatic.com/wcm/loader.js";d=e.getElementsByTagName(h)[0];d.parentNode.insertBefore(b,d);a[f]=function(b,d,e){a[c](2,b,k,d,null,new Date,e)};a[f]()})(window,document,"_googWcmImpl","_googWcmGet","_googWcmAk","script"); </script>
+
+<script type="text/javascript"> /* <![CDATA[ */ goog_snippet_vars = function() { var w = window; w.google_conversion_id = 970688392; w.google_conversion_label = "SaZmCO29mn4QiI_uzgM"; w.google_remarketing_only = false; } // DO NOT CHANGE THE CODE BELOW. goog_report_conversion = function(url) { goog_snippet_vars(); window.google_conversion_format = "3"; var opt = new Object(); opt.onload_callback = function() { if (typeof(url) != 'undefined') { window.location = url; } } var conv_handler = window['google_trackConversion']; if (typeof(conv_handler) == 'function') { conv_handler(opt); } } /* ]]> */ </script>
+
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion_async.js"> </script>
 
 </body>
 

@@ -17,6 +17,10 @@ img.border {
     width: 45%;
 }
 
+figcaption {
+    width: 45%;
+}
+
 img.right-small,
 img.left-small {
     width: 25%;

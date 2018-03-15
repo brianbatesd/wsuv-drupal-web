@@ -24,6 +24,10 @@ img.border {
     width: 50%;
 }
 
+figcaption {
+    width: 50%;
+}
+
 a.sf-depth-1 {
     width: 155px;
 }
