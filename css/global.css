@@ -110,12 +110,12 @@ img.block {
 }
 
 figcaption {
-  float: right;
-  clear: right;
-  display: block;
-  width: 60%;
-  font-size: .75em;
-  padding-bottom: 1em;
+    float: right;
+    clear: right;
+    display: block;
+    width: 60%;
+    font-size: .75em;
+    margin: 0 0 15px 15px;
 }
 
 img.right-normal {
