@@ -1310,16 +1310,13 @@ a.home-lead-button-main:focus {
 .pane-19,
 .pane-20,
 .pane-views-human-resources-jobs-block-1,
+.pane-views-hr-news-block,
 .pane-views-tech-alerts-block-1,
 .pane-views-orge-events-block,
 .pane-views-orge-grants-block {
     padding-top: 1.5em;
     padding-bottom: 1.5em;
     border-top: 10px solid #f8f8f8;
-}
-
-.pane-views-human-resources-jobs-block-1 table td {
-    border-bottom: 1px solid #fff;
 }
 
 .pane-1 img,
