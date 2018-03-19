@@ -184,7 +184,8 @@ img.hide {
 } /* reset admin file uploaded icon */
 
 #region-content a:focus,
-#region-content a:focus strong {
+#region-content a:focus strong,
+.region-sidebar-second a:focus {
     background-color: #262b2d;
     color: #fff;
 }
@@ -238,11 +239,6 @@ a:hover {
 
 a:active {
     color: #000;
-}
-
-a:focus {
-    background-color: #262b2d;
-    color: #fff;
 }
 
 a strong {
