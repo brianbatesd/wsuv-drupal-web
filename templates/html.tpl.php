@@ -76,7 +76,7 @@
 	<div id="logo-action"> <!-- BEGIN LOGO AND ACTION LINKS -->
 		<div id="logo-action-wrapper"> <!-- BEGIN LOGO AND ACTION LINKS WRAPPER -->
 
-		<a href="https://www.vancouver.wsu.edu"><img class="primary-logo" src="https://www.vancouver.wsu.edu/sites/www.vancouver.wsu.edu/themes/omegawsuv/images/wsu-vancouver-primary-logo-rgb.svg" alt="Home page."><img class="horizontal-logo" src="https://www.vancouver.wsu.edu/sites/www.vancouver.wsu.edu/themes/omegawsuv/images/wsu-vancouver-horizontal-logo-rgb.svg" alt="Home page."></a>
+		<a href="https://www.vancouver.wsu.edu"><img class="primary-logo" src="https://www.vancouver.wsu.edu/sites/www.vancouver.wsu.edu/themes/omegawsuv/images/wsu-vancouver-primary-logo-rgb.svg" alt="Home page"><img class="horizontal-logo" src="https://www.vancouver.wsu.edu/sites/www.vancouver.wsu.edu/themes/omegawsuv/images/wsu-vancouver-horizontal-logo-rgb.svg" alt="Home page"></a>
 
 		<ul class="logo-action-links">
 			<li><a href="https://studentaffairs.vancouver.wsu.edu/admissions/visit-campus">Campus tour</a></li>
@@ -175,11 +175,11 @@
       </ul>
 
   		<p class="social">
-        <a href="https://www.facebook.com/wsuvancouver"><img src="https://www.vancouver.wsu.edu/sites/www.vancouver.wsu.edu/themes/omegawsuv/social-facebook.png" alt="Facebook."></a>
-        <a href="https://www.instagram.com/wsuvancouver"><img src="https://www.vancouver.wsu.edu/sites/www.vancouver.wsu.edu/themes/omegawsuv/social-instagram.png" alt="Instagram."></a>
-        <a href="https://www.twitter.com/wsuvancouver"><img src="https://www.vancouver.wsu.edu/sites/www.vancouver.wsu.edu/themes/omegawsuv/social-twitter.png" alt="Twitter."></a>
-        <a href="https://www.snapchat.com/add/wsuvancouver"><img src="https://www.vancouver.wsu.edu/sites/www.vancouver.wsu.edu/themes/omegawsuv/social-snapchat.png" alt="Snapchat."></a>
-        <a href="https://www.youtube.com/wsuvancouver"><img src="https://www.vancouver.wsu.edu/sites/www.vancouver.wsu.edu/themes/omegawsuv/social-youtube.png" alt="YouTube." class="social-last"></a>
+        <a href="https://www.instagram.com/wsuvancouver"><img src="https://www.vancouver.wsu.edu/sites/www.vancouver.wsu.edu/themes/omegawsuv/social-instagram.png" alt="Instagram"></a>
+        <a href="https://www.twitter.com/wsuvancouver"><img src="https://www.vancouver.wsu.edu/sites/www.vancouver.wsu.edu/themes/omegawsuv/social-twitter.png" alt="Twitter"></a>
+        <a href="https://www.facebook.com/wsuvancouver"><img src="https://www.vancouver.wsu.edu/sites/www.vancouver.wsu.edu/themes/omegawsuv/social-facebook.png" alt="Facebook"></a>
+        <a href="https://www.flickr.com/photos/wsuvancouver/"><img src="https://www.vancouver.wsu.edu/sites/www.vancouver.wsu.edu/themes/omegawsuv/social-flickr.png" alt="Flickr"></a>
+        <a href="https://www.youtube.com/wsuvancouver"><img src="https://www.vancouver.wsu.edu/sites/www.vancouver.wsu.edu/themes/omegawsuv/social-youtube.png" alt="YouTube" class="social-last"></a>
       </p>
 
   		</div> <!-- END COPYRIGHT WRAPPER -->
