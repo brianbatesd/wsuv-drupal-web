@@ -186,8 +186,7 @@ img.hide {
 #region-content a:focus,
 #region-content a:focus strong,
 .region-sidebar-second a:focus {
-    background-color: #262b2d;
-    color: #fff;
+    color: #262b2d;
 }
 
 pre {
@@ -239,6 +238,11 @@ a:hover {
 
 a:active {
     color: #000;
+}
+
+a:focus {
+    outline: 1px dotted #212121;
+    outline: 5px auto -webkit-focus-ring-color;
 }
 
 a strong {
@@ -676,8 +680,7 @@ ul.nav li a:hover {
 }
 
 #nav-toggle:focus {
-    border: 1px dotted #262b2d;
-    background-color: inherit;
+    color: #262b2d;
 }
 
 .ie7 #nav-toggle {
@@ -789,8 +792,7 @@ ul.nav li a:hover {
     margin-bottom: 2em;
 }
 #logo-action a:focus {
-    border: 1px dotted #262b2d;
-    background-color: #f8f8f8;
+    text-decoration: underline;
 }
 
 #logo-action-wrapper {
@@ -807,9 +809,13 @@ img.horizontal-logo {
     margin-top: -.75em;
 }
 
-a:hover img.primary-logo,
-a:focus img.primary-logo {
+a:hover img.primary-logo {
     filter: grayscale(100%);
+}
+
+a:focus img.primary-logo {
+outline: 1px dotted #212121;
+outline: 5px auto -webkit-focus-ring-color;
 }
 
 ul.logo-action-links {
@@ -914,8 +920,7 @@ ul.logo-action-links li a:hover.apply-now {
 
 .region-sidebar-first ul li a:focus,
 .region-footer-first ul li a:focus {
-    color: #fff;
-    background-color: #262b2d;
+    color: #262b2d;
     text-decoration: underline;
 }
 
@@ -1093,7 +1098,7 @@ ul.logo-action-links li a:hover.apply-now {
 }
 
 .responsive-menus.responsified .responsive-menus-simple li a:focus {
-    color: #fff;
+    text-decoration: underline;
 }
 
 .responsive-menus.responsified .responsive-menus-simple li.first a {
@@ -1800,15 +1805,14 @@ h2.block-title {
 
 #copyright p.social img {
     width: 32px;
-    margin-right: 1em;
-    padding: 3px;
+    padding: 8px;
     background-color: #981e32;
 }
 
 #copyright p.social a:hover img,
 #copyright p.social a:focus img {
     border: 1px solid;
-    padding: 2px;
+    padding: 7px;
     background-color: #981e32;
 }
 

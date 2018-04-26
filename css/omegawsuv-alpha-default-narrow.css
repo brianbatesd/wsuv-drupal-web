@@ -123,10 +123,7 @@ ul.quick-links-right {
 }
 
 #logo-action a:focus {
-    border: 0;
-    text-decoration: underline;
-    background: #262b2d;
-    color: #f8f8f8;
+
 }
 
 #logo-action-wrapper {

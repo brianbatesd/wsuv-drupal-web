@@ -81,10 +81,7 @@ ul.nav li a:hover {
 }
 
 #logo-action a:focus {
-    border: 0;
-    text-decoration: underline;
-    background: #262b2d;
-    color: #f8f8f8;
+
 }
 
 img.primary-logo {
