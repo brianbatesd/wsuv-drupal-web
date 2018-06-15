@@ -369,6 +369,11 @@ td.gsc-table-cell-snippet-close,
   border: 0;
 } /* Google CSE remove table backgrounds */
 
+.gsc-webResult.gsc-result:hover {
+  margin-left: -1px;
+  margin-bottom: 1px;
+}
+
 #___gcse_0 > div {
   padding: 0;
   margin: 0;
