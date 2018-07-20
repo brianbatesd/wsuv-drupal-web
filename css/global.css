@@ -402,6 +402,9 @@ div.gsc-webResult.gsc-result {
   padding: 3px 7px 3px 7px;
 }
 
+#___gcse_0 > div > div > div > div.gsc-wrapper > div.gsc-resultsbox-visible > div > div > div.gsc-expansionArea > div:nth-child(9):hover {
+  padding-bottom: 7px;
+}
 
 /* FORMS */
 
