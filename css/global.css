@@ -1152,12 +1152,8 @@ h1.home-lead-title-main {
     margin-bottom: 2em;
 }
 
-.nwcg-masthead {
-  border-top: none;
-}
-
 .nwcg-cover-story {
-    background: url("https://www.vancouver.wsu.edu/sites/www.vancouver.wsu.edu/files/images/nwcg-cover-butterflies.jpg") repeat center;
+    background: url("https://www.vancouver.wsu.edu/sites/www.vancouver.wsu.edu/files/images/nwcg-cover-water-matters.jpg") repeat center;
     background-color: #262b2d;
     overflow: hidden;
     margin-bottom: 2em;
@@ -1167,7 +1163,7 @@ h1.home-lead-title-main {
 .nwcg-cover-story h2,
 .nwcg-cover-story h3,
 .nwcg-cover-story p {
-    color: #fff;
+    color: #262b2d;
 }
 
 .nwcg-cover-story h2 {
@@ -1175,7 +1171,7 @@ h1.home-lead-title-main {
 }
 
 .nwcg-issue-date {
-  margin-bottom: 0; text-transform: uppercase; font-weight: bold;
+    margin-bottom: 0; text-transform: uppercase; font-weight: bold;
 }
 
 .nwcg-email-subscribe form {
