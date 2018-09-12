@@ -1152,6 +1152,10 @@ h1.home-lead-title-main {
     margin-bottom: 2em;
 }
 
+.nwcg-masthead {
+  border-top: none;
+}
+
 .nwcg-cover-story {
     background: url("https://www.vancouver.wsu.edu/sites/www.vancouver.wsu.edu/files/images/nwcg-cover-butterflies.jpg") repeat center;
     background-color: #262b2d;
@@ -1168,6 +1172,10 @@ h1.home-lead-title-main {
 
 .nwcg-cover-story h2 {
     line-height: 1.125em;
+}
+
+.nwcg-issue-date {
+  margin-bottom: 0; text-transform: uppercase; font-weight: bold;
 }
 
 .nwcg-email-subscribe form {
