@@ -939,6 +939,11 @@ ul.logo-action-links li a:hover.apply-now {
     margin-left: 10px;
 }
 
+#rm-no-id-1 > li.menu-list.first {
+    font-size: 1em;
+    margin-left: 0;
+}
+
 .region-sidebar-first ul li.first.leaf {
     font-weight: bold;
 }
