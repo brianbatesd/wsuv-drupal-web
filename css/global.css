@@ -872,12 +872,22 @@ ul.logo-action-links li a:hover.apply-now {
     /* logged in users */
 }
 
+#block-system-navigation li.menu-list.first {
+    font-size: 1em;
+    margin-left: 0;
+}
+
 /* NAVIGATION BLOCKS */
 
 .region-sidebar-first,
 .region-footer-first {
     font-size: 1.1em;
     margin-bottom: 2em;
+}
+
+.region-sidebar-first li.menu-list.first {
+    font-size: 1em;
+    margin-left: 0;
 }
 
 .region-sidebar-first ul,
@@ -937,11 +947,6 @@ ul.logo-action-links li a:hover.apply-now {
     font-size: 1.4em;
     line-height: 1.3em;
     margin-left: 10px;
-}
-
-#rm-no-id-1 > li.menu-list.first {
-    font-size: 1em;
-    margin-left: 0;
 }
 
 .region-sidebar-first ul li.first.leaf {
