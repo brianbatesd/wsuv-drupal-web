@@ -159,8 +159,8 @@
         <li class="list-title">Resources</li>
         <li><a href="https://my.wsu.edu/">myWSU</a></li>
         <li><a href="http://learn.wsu.edu/">Blackboard</a></li>
-        <li><a href="https://outlook.office365.com/owa/wsu.edu/">Webmail</a></li>
-        <li><a href="http://office365.wsu.edu/">Office365</a></li>
+        <li><a href="http://office365.wsu.edu/">Email and Office 365</a></li>
+        <li><a href="https://studentaffairs.vancouver.wsu.edu/majors-and-programs">Majors and Programs</a></li>
         <li><a href="http://directory.vancouver.wsu.edu/">Directory</a></li>
         <li><a href="https://studentaffairs.vancouver.wsu.edu/student-affairs/bookie-student-bookstore">Bookstore</a></li>
         <li><a href="http://directory.vancouver.wsu.edu/">Library</a></li>
