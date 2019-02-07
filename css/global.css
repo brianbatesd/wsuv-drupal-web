@@ -1631,6 +1631,15 @@ ul.pager {
     font-size: 18px;
 }
 
+.view-alerts-list h2 {
+    color: #981e32;
+}
+
+.view-alerts-list a:hover h2,
+.view-alerts-list a:focus h2 {
+    color: #262b2d;
+}
+
 .view-empty {
     margin-bottom: 1.5em;
 }
