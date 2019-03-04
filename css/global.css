@@ -1415,11 +1415,13 @@ a.home-lead-button-main:focus {
     margin-left: 1em;
 }
 
+.view-human-resources-jobs ul li,
+.pane-views-hr-news-block ul li,
 .pane-views-orge-events-block ul li,
 .pane-views-orge-grants-block ul li {
     list-style-type: disc;
     font-size: 18px;
-    margin-left: 1em;
+    margin-left: 1.25em;
 }
 
 .libraryh3lp a {
