@@ -427,6 +427,7 @@ div.gsc-webResult.gsc-result {
     font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif;
     color: #606e73;
     font-size: 1em;
+    padding: 10px;
 }
 
 #zone-content input[type="datalist"] {
@@ -1163,7 +1164,7 @@ h1.home-lead-title-main {
 }
 
 .nwcg-cover-story {
-    background: url("https://www.vancouver.wsu.edu/sites/www.vancouver.wsu.edu/files/images/nwcg-cover-water-matters.jpg") repeat center;
+    background: url("https://www.vancouver.wsu.edu/sites/www.vancouver.wsu.edu/files/images/nwcg-cover-classrooms-diverse.jpg") repeat center;
     background-color: #262b2d;
     overflow: hidden;
     margin-bottom: 2em;
@@ -1173,7 +1174,12 @@ h1.home-lead-title-main {
 .nwcg-cover-story h2,
 .nwcg-cover-story h3,
 .nwcg-cover-story p {
-    color: #262b2d;
+    color: #fff;
+    text-shadow: 1px 1px 1px black;
+}
+
+.nwcg-cover-story a.home-lead-button {
+    text-shadow: none;
 }
 
 .nwcg-cover-story h2 {
