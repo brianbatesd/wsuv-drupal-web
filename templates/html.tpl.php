@@ -97,10 +97,12 @@
   		<ul class="sitemap-footer-column-1">
  			<li class="sitemap-title">WSU Vancouver</li>
 			<li><a href="https://www.vancouver.wsu.edu/about-wsu-vancouver">About WSU Vancouver</a></li>
+      <li><a href="https://studentaffairs.vancouver.wsu.edu/access-center">Access Center</a></li>
       <li><a href="https://admin.vancouver.wsu.edu/">Administration</a></li>
 			<li><a href="https://www.vancouver.wsu.edu/campus-map-directions-and-parking-information">Campus Map</a></li>
 			<li><a href="https://hd.vancouver.wsu.edu/child-development">Child Development Program</a></li>
 			<li><a href="https://admin.vancouver.wsu.edu/human-resources/employment">Employment</a></li>
+			<li><a href="https://admin.vancouver.wsu.edu/diversity">Equity and Diversity</a></li>
 			<li><a href="https://events.vancouver.wsu.edu">Events Calendar</a></li>
 			<li><a href="https://admin.vancouver.wsu.edu/parking/parking-services">Parking Services</a></li>
     	</ul>
@@ -150,6 +152,7 @@
         <li class="list-title">&copy; WSU Vancouver</li>
         <li class="about-mobile"><a href="https://www.vancouver.wsu.edu/about-wsu-vancouver">About</a></li>
         <li><a href="https://access.wsu.edu/">Accessibility</a></li>
+			  <li><a href="https://admin.vancouver.wsu.edu/diversity">Equity and Diversity</a></li>        
         <li><a href="https://policies.wsu.edu/">Policies</a></li>
         <li><a href="http://public.wsu.edu/~forms/ProposedWAC.html">Rule making</a></li>
         <li><a href="https://ucomm.wsu.edu/wsu-copyright-policy/">Copyright</a></li>
