@@ -87,7 +87,10 @@
 		</div> <!-- END LOGO AND ACTION LINKS WRAPPER -->
 	</div> <!-- END LOGO AND ACTION LINKS -->
 
-  <div role="main" aria-label="Content"><?php print $page; ?></div>
+  <div role="main" aria-label="Content">
+    <?php print $page; ?>
+  </div>
+
   <?php print $page_bottom; ?>
 
   <footer role="contentinfo" aria-label="Footer sitemap">
@@ -152,17 +155,17 @@
         <li class="list-title">&copy; WSU Vancouver</li>
         <li class="about-mobile"><a href="https://www.vancouver.wsu.edu/about-wsu-vancouver">About</a></li>
         <li><a href="https://access.wsu.edu/">Accessibility</a></li>
-			  <li><a href="https://admin.vancouver.wsu.edu/diversity">Equity and Diversity</a></li>        
         <li><a href="https://policies.wsu.edu/">Policies</a></li>
         <li><a href="http://public.wsu.edu/~forms/ProposedWAC.html">Rule making</a></li>
         <li><a href="https://ucomm.wsu.edu/wsu-copyright-policy/">Copyright</a></li>
       </ul>
 
-  		<ul class="links-mobile"> <!-- ADD TO STYLESHEET -->
+  		<ul class="links-mobile">
         <li class="list-title">Resources</li>
         <li><a href="https://my.wsu.edu/">myWSU</a></li>
         <li><a href="http://learn.wsu.edu/">Blackboard</a></li>
         <li><a href="http://office365.wsu.edu/">Email and Office 365</a></li>
+        <li><a href="https://admin.vancouver.wsu.edu/diversity">Equity and Diversity</a></li>
         <li><a href="https://studentaffairs.vancouver.wsu.edu/majors-and-programs">Majors and Programs</a></li>
         <li><a href="http://directory.vancouver.wsu.edu/">Directory</a></li>
         <li><a href="https://studentaffairs.vancouver.wsu.edu/student-affairs/bookie-student-bookstore">Bookstore</a></li>
@@ -170,20 +173,26 @@
         <li><a href="https://admin.vancouver.wsu.edu/information-technology/wsu-vancouver-wifi">Wi-fi</a></li>
       </ul>
 
-      <div id="contact-wrapper">
-  		<ul class="contact-info">
-        <li class="list-title">Contact</li>
-        <li><a href="https://www.vancouver.wsu.edu/campus-map-directions-and-parking-information" alt="Map, parking and directions">14204 NE Salmon Creek Ave, Vancouver, WA, 98686</a></li>
-        <li><a href="tel:+13605469788">360-546-9788</a></li>
-      </ul>
+      <div id="contact-wrapper"> <!-- BEGIN CONTACT WRAPPER -->
+    		<ul class="contact-info">
+          <li class="list-title">Contact</li>
+          <li><a href="https://www.vancouver.wsu.edu/campus-map-directions-and-parking-information" alt="Map, parking and directions">14204 NE Salmon Creek Ave, Vancouver, WA, 98686</a></li>
+          <li><a href="tel:+13605469788">360-546-9788</a></li>
+        </ul>
 
-  		<p class="social">
-        <a href="https://www.instagram.com/wsuvancouver"><img src="https://www.vancouver.wsu.edu/sites/www.vancouver.wsu.edu/themes/omegawsuv/social-instagram.png" alt="Instagram"></a>
-        <a href="https://www.twitter.com/wsuvancouver"><img src="https://www.vancouver.wsu.edu/sites/www.vancouver.wsu.edu/themes/omegawsuv/social-twitter.png" alt="Twitter"></a>
-        <a href="https://www.facebook.com/wsuvancouver"><img src="https://www.vancouver.wsu.edu/sites/www.vancouver.wsu.edu/themes/omegawsuv/social-facebook.png" alt="Facebook"></a>
-        <a href="https://www.flickr.com/photos/wsuvancouver/"><img src="https://www.vancouver.wsu.edu/sites/www.vancouver.wsu.edu/themes/omegawsuv/social-flickr.png" alt="Flickr"></a>
-        <a href="https://www.youtube.com/wsuvancouver"><img src="https://www.vancouver.wsu.edu/sites/www.vancouver.wsu.edu/themes/omegawsuv/social-youtube.png" alt="YouTube" class="social-last"></a>
-      </p>
+    		<p class="social">
+          <a href="https://www.instagram.com/wsuvancouver"><img src="https://www.vancouver.wsu.edu/sites/www.vancouver.wsu.edu/themes/omegawsuv/social-instagram.png" alt="Instagram"></a>
+          <a href="https://www.twitter.com/wsuvancouver"><img src="https://www.vancouver.wsu.edu/sites/www.vancouver.wsu.edu/themes/omegawsuv/social-twitter.png" alt="Twitter"></a>
+          <a href="https://www.facebook.com/wsuvancouver"><img src="https://www.vancouver.wsu.edu/sites/www.vancouver.wsu.edu/themes/omegawsuv/social-facebook.png" alt="Facebook"></a>
+          <a href="https://www.flickr.com/photos/wsuvancouver/"><img src="https://www.vancouver.wsu.edu/sites/www.vancouver.wsu.edu/themes/omegawsuv/social-flickr.png" alt="Flickr"></a>
+          <a href="https://www.youtube.com/wsuvancouver"><img src="https://www.vancouver.wsu.edu/sites/www.vancouver.wsu.edu/themes/omegawsuv/social-youtube.png" alt="YouTube" class="social-last"></a>
+        </p>
+
+        <!-- <div id="thirty-years-wrapper">
+          <img class="celebrating-30-years" src="https://www.vancouver.wsu.edu/sites/www.vancouver.wsu.edu/themes/omegawsuv/images/celebrating-30-years.svg" alt="Celebrating 30 Years" />
+        </div> -->
+
+      </div> <!-- END CONTACT WRAPPER -->
 
   		</div> <!-- END COPYRIGHT WRAPPER -->
   	</div> <!-- END COPYRIGHT -->

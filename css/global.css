@@ -1777,7 +1777,7 @@ h2.block-title {
 #copyright {
     background: #981e32;
     clear: both;
-    height: 48em;
+    height: 50em;
     padding: .5em 0 0 0;
     font-size: .9em;
     line-height: 1.7em;
@@ -1859,6 +1859,15 @@ h2.block-title {
     margin-right: 0;
 }
 
+#thirty-years-wrapper {
+    background-color: #981e32;
+    clear: both;
+}
+
+#copyright img.celebrating-30-years {
+    width: 300px;
+    margin: 0 auto;
+}
 
 /* PRINT STYLES */
 
