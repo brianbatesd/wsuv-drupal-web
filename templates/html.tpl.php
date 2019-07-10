@@ -14,12 +14,12 @@
   <!--[if lt IE 9]><script src="https://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
   <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css?family=Oswald" rel="stylesheet">
-  <link rel="apple-touch-icon" sizes="76x76" href="https://www.vancouver.wsu.edu/sites/www.vancouver.wsu.edu/themes/omegawsuv/apple-touch-icon-76x76.png">
-  <link rel="apple-touch-icon" sizes="120x120" href="https://www.vancouver.wsu.edu/sites/www.vancouver.wsu.edu/themes/omegawsuv/apple-touch-icon-120x120.png">
-  <link rel="apple-touch-icon" sizes="152x152" href="https://www.vancouver.wsu.edu/sites/www.vancouver.wsu.edu/themes/omegawsuv/apple-touch-icon-152x152.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="/sites/www.vancouver.wsu.edu/themes/omegawsuv/apple-touch-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="/sites/www.vancouver.wsu.edu/themes/omegawsuv/apple-touch-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="/sites/www.vancouver.wsu.edu/themes/omegawsuv/apple-touch-icon-152x152.png">
   <meta name="apple-mobile-web-app-title" content="WSUV">
-  <link rel="icon" type="image/png" href="https://www.vancouver.wsu.edu/sites/www.vancouver.wsu.edu/themes/omegawsuv/favicon-16x16.png" sizes="16x16">
-  <link rel="icon" type="image/png" href="https://www.vancouver.wsu.edu/sites/www.vancouver.wsu.edu/themes/omegawsuv/favicon-32x32.png" sizes="32x32">
+  <link rel="icon" type="image/png" href="/sites/www.vancouver.wsu.edu/themes/omegawsuv/favicon-16x16.png" sizes="16x16">
+  <link rel="icon" type="image/png" href="/sites/www.vancouver.wsu.edu/themes/omegawsuv/favicon-32x32.png" sizes="32x32">
 </head>
 <body<?php print $attributes;?>>
   <div id="skip-link">
@@ -76,7 +76,7 @@
 	<div id="logo-action"> <!-- BEGIN LOGO AND ACTION LINKS -->
 		<div id="logo-action-wrapper"> <!-- BEGIN LOGO AND ACTION LINKS WRAPPER -->
 
-		<a href="https://www.vancouver.wsu.edu"><img class="primary-logo" src="https://www.vancouver.wsu.edu/sites/www.vancouver.wsu.edu/themes/omegawsuv/images/wsu-vancouver-primary-logo-rgb.svg" alt="Home page"><img class="horizontal-logo" src="https://www.vancouver.wsu.edu/sites/www.vancouver.wsu.edu/themes/omegawsuv/images/wsu-vancouver-horizontal-logo-rgb.svg" alt="Home page"></a>
+		<a href="https://www.vancouver.wsu.edu"><img class="primary-logo" src="/sites/www.vancouver.wsu.edu/themes/omegawsuv/images/wsu-vancouver-primary-logo-rgb.svg" alt="Home page"><img class="horizontal-logo" src="/sites/www.vancouver.wsu.edu/themes/omegawsuv/images/wsu-vancouver-horizontal-logo-rgb.svg" alt="Home page"></a>
 
 		<ul class="logo-action-links">
 			<li><a href="https://studentaffairs.vancouver.wsu.edu/admissions/visit-campus">Campus tour</a></li>
@@ -170,22 +170,22 @@
         <li><a href="http://directory.vancouver.wsu.edu/">Directory</a></li>
         <li><a href="https://studentaffairs.vancouver.wsu.edu/student-affairs/bookie-student-bookstore">Bookstore</a></li>
         <li><a href="http://directory.vancouver.wsu.edu/">Library</a></li>
-        <li><a href="https://www.vancouver.wsu.edu/information-technology/wsu-vancouver-wifi">Wi-fi</a></li>
+        <li><a href="https://www.vancouver.wsu.edu/information-technology/wsu-wireless">Wi-fi</a></li>
       </ul>
 
       <div id="contact-wrapper"> <!-- BEGIN CONTACT WRAPPER -->
     		<ul class="contact-info">
           <li class="list-title">Contact</li>
-          <li><a href="https://www.vancouver.wsu.edu/campus-map-directions-and-parking-information" alt="Map, parking and directions">14204 NE Salmon Creek Ave, Vancouver, WA, 98686</a></li>
+          <li><a href="https://www.vancouver.wsu.edu/campus-map-directions" alt="Map, parking and directions">14204 NE Salmon Creek Ave, Vancouver, WA, 98686</a></li>
           <li><a href="tel:+13605469788">360-546-9788</a></li>
         </ul>
 
     		<p class="social">
-          <a href="https://www.instagram.com/wsuvancouver"><img src="https://www.vancouver.wsu.edu/sites/www.vancouver.wsu.edu/themes/omegawsuv/social-instagram.png" alt="Instagram"></a>
-          <a href="https://www.twitter.com/wsuvancouver"><img src="https://www.vancouver.wsu.edu/sites/www.vancouver.wsu.edu/themes/omegawsuv/social-twitter.png" alt="Twitter"></a>
-          <a href="https://www.facebook.com/wsuvancouver"><img src="https://www.vancouver.wsu.edu/sites/www.vancouver.wsu.edu/themes/omegawsuv/social-facebook.png" alt="Facebook"></a>
-          <a href="https://www.flickr.com/photos/wsuvancouver/"><img src="https://www.vancouver.wsu.edu/sites/www.vancouver.wsu.edu/themes/omegawsuv/social-flickr.png" alt="Flickr"></a>
-          <a href="https://www.youtube.com/wsuvancouver"><img src="https://www.vancouver.wsu.edu/sites/www.vancouver.wsu.edu/themes/omegawsuv/social-youtube.png" alt="YouTube" class="social-last"></a>
+          <a href="https://www.instagram.com/wsuvancouver"><img src="/sites/www.vancouver.wsu.edu/themes/omegawsuv/social-instagram.png" alt="Instagram"></a>
+          <a href="https://www.twitter.com/wsuvancouver"><img src="/sites/www.vancouver.wsu.edu/themes/omegawsuv/social-twitter.png" alt="Twitter"></a>
+          <a href="https://www.facebook.com/wsuvancouver"><img src="/sites/www.vancouver.wsu.edu/themes/omegawsuv/social-facebook.png" alt="Facebook"></a>
+          <a href="https://www.flickr.com/photos/wsuvancouver/"><img src="/sites/www.vancouver.wsu.edu/themes/omegawsuv/social-flickr.png" alt="Flickr"></a>
+          <a href="https://www.youtube.com/wsuvancouver"><img src="/sites/www.vancouver.wsu.edu/themes/omegawsuv/social-youtube.png" alt="YouTube" class="social-last"></a>
         </p>
 
         <!-- <div id="thirty-years-wrapper">
@@ -198,8 +198,8 @@
   	</div> <!-- END COPYRIGHT -->
   </footer>
 
-<script src="https://www.vancouver.wsu.edu/sites/www.vancouver.wsu.edu/themes/omegawsuv/js/responsive-nav.min.js"></script>
-<script src="https://www.vancouver.wsu.edu/sites/www.vancouver.wsu.edu/themes/omegawsuv/js/search-enhancement.js"></script>
+<script src="/sites/www.vancouver.wsu.edu/themes/omegawsuv/js/responsive-nav.min.js"></script>
+<script src="/sites/www.vancouver.wsu.edu/themes/omegawsuv/js/search-enhancement.js"></script>
 
 <script>var navigation = responsiveNav("#nav");</script>
 
