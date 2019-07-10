@@ -37,7 +37,7 @@
     		<li><a href="https://outlook.office365.com/owa/wsu.edu/">Webmail</a></li>
     		<li><a href="http://office365.wsu.edu/">Office 365</a></li>
         <li><a href="https://library.vancouver.wsu.edu">Library</a></li>
-        <li><a href="https://admin.vancouver.wsu.edu/academic-affairs">Academics</a></li>
+        <li><a href="https://www.vancouver.wsu.edu/academic-affairs">Academics</a></li>
     		<li><a href="https://studentaffairs.vancouver.wsu.edu/student-affairs/bookie-student-bookstore">Bookstore</a></li>
     	</ul>
 
@@ -45,7 +45,7 @@
     		<li><a href="https://my.wsu.edu/">myWSU</a></li>
         <li><a href="https://wsu.edu/about/statewide/">WSU Statewide</a></li>
     		<li><a href="http://learn.wsu.edu/">Blackboard</a></li>
-    		<li><a href="https://admin.vancouver.wsu.edu/information-technology">Tech Support</a></li>
+    		<li><a href="https://www.vancouver.wsu.edu/information-technology">Tech Support</a></li>
     		<li><a href="http://directory.vancouver.wsu.edu">Directory</a></li>
     	</ul>
 
@@ -60,8 +60,8 @@
         <li><a href="https://studentaffairs.vancouver.wsu.edu/admissions">Admissions</a></li>
     		<li><a href="https://studentaffairs.vancouver.wsu.edu/admissions/degrees-majors-and-programs">Degrees</a></li>
         <li><a href="https://studentaffairs.vancouver.wsu.edu/student-affairs/resources-current-students">Current Students</a></li>
-        <li><a href="https://admin.vancouver.wsu.edu/research">Research</a></li>
-        <li><a href="https://admin.vancouver.wsu.edu/development-and-alumni-relations">Alumni</a></li>
+        <li><a href="https://www.vancouver.wsu.edu/research">Research</a></li>
+        <li><a href="https://www.vancouver.wsu.edu/alumni">Alumni</a></li>
     	</ul>
 
     	<div id="google-cse"> <!-- BEGIN GOOGLE CSE -->
@@ -101,19 +101,19 @@
  			<li class="sitemap-title">WSU Vancouver</li>
 			<li><a href="https://www.vancouver.wsu.edu/about-wsu-vancouver">About WSU Vancouver</a></li>
       <li><a href="https://studentaffairs.vancouver.wsu.edu/access-center">Access Center</a></li>
-      <li><a href="https://admin.vancouver.wsu.edu/">Administration</a></li>
-			<li><a href="https://www.vancouver.wsu.edu/campus-map-directions-and-parking-information">Campus Map</a></li>
+      <li><a href="https://www.vancouver.wsu.edu/administrative-departments">Administration</a></li>
+			<li><a href="https://www.vancouver.wsu.edu/campus-map-directions">Campus Map</a></li>
 			<li><a href="https://hd.vancouver.wsu.edu/child-development">Child Development Program</a></li>
-			<li><a href="https://admin.vancouver.wsu.edu/human-resources/employment">Employment</a></li>
-			<li><a href="https://admin.vancouver.wsu.edu/diversity">Equity and Diversity</a></li>
-			<li><a href="https://events.vancouver.wsu.edu">Events Calendar</a></li>
-			<li><a href="https://admin.vancouver.wsu.edu/parking/parking-services">Parking Services</a></li>
+			<li><a href="https://www.vancouver.wsu.edu/human-resources">Employment</a></li>
+			<li><a href="https://www.vancouver.wsu.edu/equity-diversity">Equity and Diversity</a></li>
+			<li><a href="https://www.vancouver.wsu.edu/events">Events Calendar</a></li>
+			<li><a href="https://www.vancouver.wsu.edu/parking-services">Parking Services</a></li>
     	</ul>
 
   		<ul class="sitemap-footer-column-2">
  			<li class="sitemap-title">Future Students</li>
 			<li><a href="https://studentaffairs.vancouver.wsu.edu/admissions">Admissions</a></li>
-			<li><a href="https://studentaffairs.vancouver.wsu.edu/majors-and-programs">Majors and Programs</a></li>
+			<li><a href="https://studentaffairs.vancouver.wsu.edu/admissions/degrees-majors-programs">Majors and Programs</a></li>
 			<li><a href="https://studentaffairs.vancouver.wsu.edu/financial-aid">Student Financial Services</a></li>
 			<li>&nbsp;</li>
 			<li class="sitemap-title">Current Students</li>
@@ -125,13 +125,13 @@
 
   		<ul class="sitemap-footer-column-3">
  			<li class="sitemap-title">Campus Safety</li>
-			<li><a href="https://admin.vancouver.wsu.edu/public-safety/public-safety">Public Safety</a></li>
+			<li><a href="https://www.vancouver.wsu.edu/public-safety">Public Safety</a></li>
 			<li><a href="https://www.vancouver.wsu.edu/safety-plan">Safety Plan and Security Report</a></li>
       <li>&nbsp;</li>
       <li class="sitemap-title">Alumni</li>
-      <li><a href="https://admin.vancouver.wsu.edu/development-and-alumni-relations/alumni-relations/alumni-association">Alumni Association</a></li>
-      <li><a href="https://admin.vancouver.wsu.edu/development-and-alumni-relations/alumni-relations/get-involved">Get Involved</a></li>
-      <li><a href="https://admin.vancouver.wsu.edu/giving/make-gift-wsu-vancouver">Make a Gift</a></li>
+      <li><a href="https://www.vancouver.wsu.edu/development-alumni-relations/alumni-association">Alumni Association</a></li>
+      <li><a href="https://www.vancouver.wsu.edu/development-alumni-relations/get-involved">Get Involved</a></li>
+      <li><a href="https://www.vancouver.wsu.edu/development-alumni-relations/make-gift-wsu-vancouver">Make a Gift</a></li>
    		</ul>
 
   		<ul class="sitemap-footer-column-4">
@@ -165,12 +165,12 @@
         <li><a href="https://my.wsu.edu/">myWSU</a></li>
         <li><a href="http://learn.wsu.edu/">Blackboard</a></li>
         <li><a href="http://office365.wsu.edu/">Email and Office 365</a></li>
-        <li><a href="https://admin.vancouver.wsu.edu/diversity">Equity and Diversity</a></li>
+        <li><a href="https://www.vancouver.wsu.edu/equity-diversity">Equity and Diversity</a></li>
         <li><a href="https://studentaffairs.vancouver.wsu.edu/majors-and-programs">Majors and Programs</a></li>
         <li><a href="http://directory.vancouver.wsu.edu/">Directory</a></li>
         <li><a href="https://studentaffairs.vancouver.wsu.edu/student-affairs/bookie-student-bookstore">Bookstore</a></li>
         <li><a href="http://directory.vancouver.wsu.edu/">Library</a></li>
-        <li><a href="https://admin.vancouver.wsu.edu/information-technology/wsu-vancouver-wifi">Wi-fi</a></li>
+        <li><a href="https://www.vancouver.wsu.edu/information-technology/wsu-vancouver-wifi">Wi-fi</a></li>
       </ul>
 
       <div id="contact-wrapper"> <!-- BEGIN CONTACT WRAPPER -->
