@@ -93,7 +93,7 @@ ul.quick-links-right {
 }
 
 .search input[type=submit] {
-    background: url("https://www.vancouver.wsu.edu/sites/www.vancouver.wsu.edu/themes/omegawsuv/search.png") no-repeat center center;
+    background: url("https://www.vancouver.wsu.edu/themes/bootstrap_sass_wsuv/images/search.png") no-repeat center center;
     width: 27px;
     height: 27px;
     background-size: 27px;
